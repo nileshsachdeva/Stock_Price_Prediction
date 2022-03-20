@@ -1,0 +1,47 @@
+{
+    "Company": [
+        "Telstra Corporation Limited",
+        "Qantas Airways Limited",
+        "Crown Resorts Limited",
+        "Fisher & Paykel Healthcare Corporation Limited",
+        "Ansell Limited",
+        "TPG Telecom Limited",
+        "Transurban Group"
+    ],
+    "description": [
+        "Telstra Corporation Limited provides telecommunications and information services to businesses, governments, and individuals in Australia and internationally. It operates in four segments: Telstra Consumer and Small Business, Telstra Enterprise, Networks and IT, and Telstra InfraCo. The company offers telecommunication products, services, and solutions across mobiles, fixed and mobile broadband, media, and digital content in prepaid and post-paid services, as well as operates call centers, Telstra shops, and the Telstra dealership network. It also provides network capacity and management, unified communications, cloud, industry solutions, integrated and monitoring services to government and large enterprise customers; builds and manages digital platforms; and provides telecommunication products and services to other carriers, carriage service providers, and internet service providers. In addition, the company operates the fixed passive network infrastructure, including data centers, exchanges, poles, ducts, pits and pipes, fiber network, and mobile towers; provides wholesale customers with access to network infrastructure; provides long-term access to components of infrastructure and network services under the infrastructure services agreement and commercial contracts; and designs and constructs fiber, exchanges, and other infrastructure. The company was formerly known as Australian and Overseas Telecommunications Corporation Limited and changed its name to Telstra Corporation Limited in April 1993. Telstra Corporation Limited was founded in 1901 and is based in Melbourne, Australia.",
+        "Qantas Airways Limited provides air transportation services in Australia and internationally. The company operates through Qantas Domestic, Qantas International, Jetstar Group, and Qantas Loyalty segments. It offers passenger flying, and air cargo and express freight services; and customer loyalty recognition programs. As of June 30, 2021, the company operated a fleet of 311 aircraft under the Qantas and Jetstar brands. Qantas Airways Limited was founded in 1920 and is based in Mascot, Australia.",
+        "Crown Resorts Limited operates in the entertainment industry primarily in Australia. It operates through four segments: Crown Melbourne, Crown Perth, Crown Aspinalls, and Wagering & Online. The company owns and operates two integrated resorts, including Crown Melbourne and Crown Perth. Its Crown Melbourne resort comprises 2,628 gaming machines and 540 gaming tables; the Crown Towers Melbourne hotel with 481 guest rooms, the Crown Metropol Melbourne hotel with 658 guest rooms, and the Crown Promenade Melbourne hotel with 465 guest rooms; a conference center; banqueting facilities; restaurants and bars; and designer brands and retail outlets. The company's Crown Perth resort includes the Crown Towers Perth hotel with 500 guest rooms; the Crown Metropol Perth hotel comprising 397 guest rooms; the Crown Promenade Perth hotel with 291 guest rooms; 2,500 gaming machines and 350 gaming tables; a 1,500-seat Crown Ballroom and 2,300-seat Crown Theatre; convention facilities; and restaurants and bars, and a resort. It also owns and operates the Crown Aspinalls, a casino in London; and engages in wagering and online social gaming activities. The company was formerly known as Crown Limited and changed its name to Crown Resorts Limited in October 2013. Crown Resorts Limited was incorporated in 2007 and is based in Southbank, Australia.",
+        "Fisher & Paykel Healthcare Corporation Limited, together with its subsidiaries, designs, manufactures, markets, and sells medical device products and systems worldwide. It provides its products for use in acute and chronic respiratory care, and surgery, as well as the treatment of obstructive sleep apnea (OSA) in the home and hospital. The company offers Airvo 2, a humidified nasal high flow system; Optiflow, a nasal high flow therapy; and F&P 850 System, a noninvasive and invasive ventilation system. It also provides infant respiratory products, such as resuscitation, continuous positive airway pressure (CPAP) therapy, and nasal high flow therapy products. In addition, the company offers hospital products, including humidification products, breathing circuits, chambers, masks, nasal cannulas, surgical, accessories, and interfaces; and homecare products that include masks, CPAP devices, software and data management products, humidifiers, and accessories. Fisher & Paykel Healthcare Corporation Limited was founded in 1934 and is headquartered in Auckland, New Zealand.",
+        "Ansell Limited designs, develops, and manufactures protection solutions in the Asia Pacific, Europe, the Middle East, Africa, Latin America, the Caribbean, and North America. It operates in two segments, Healthcare and Industrial. The Healthcare segment manufactures and markets solutions comprising surgical gloves, single use and examination gloves, and clean and sterile gloves and garments, as well as consumables used by hospitals, surgical centers, dental practices, veterinary clinics, first responders, laboratories, and life sciences and pharmaceutical companies. The Industrial segment manufactures and markets hand and chemical protective clothing solutions for a range of industrial applications, including automotive, chemical, metal fabrication, machinery and equipment, food, construction, mining, oil and gas, and first responders. The company was formerly known as Pacific Dunlop Limited and changed its name to Ansell Limited in 2002. Ansell Limited was founded in 1893 and is based in Richmond, Australia.",
+        "TPG Telecom Limited provides telecommunications services. It owns and operates fixed and mobile network infrastructure, including fixed voice and data network with approximately 27,000 kilometers of metropolitan and inter-capital fiber networks; international subsea cable systems connecting Australia to principal hubs in North America and Asia; and mobile network. The company provides its fixed and mobile products under the Vodafone, TPG, iiNet, Internode, Lebara, and AAPT brands. The company, formerly known as Vodafone Hutchison Australia Limited, is based in North Sydney, Australia.",
+        "Transurban Group develops, operates, manages, and maintains toll road networks. It operates 21 toll roads in Sydney, Melbourne, and Brisbane in Australia; the Greater Washington area, the United States; and Montreal, Canada. The company is headquartered in Melbourne, Australia."
+    ],
+    "industry": [
+        "Telecom Services",
+        "Airlines",
+        "Resorts & Casinos",
+        "Medical Instruments & Supplies",
+        "Medical Instruments & Supplies",
+        "Telecom Services",
+        "Infrastructure Operations"
+    ],
+    "sector": [
+        "Communication Services",
+        "Industrials",
+        "Consumer Cyclical",
+        "Healthcare",
+        "Healthcare",
+        "Communication Services",
+        "Industrials"
+    ],
+    "symbol": [
+        "TLS.AX",
+        "QAN.AX",
+        "CWN.AX",
+        "FPH.AX",
+        "ANN.AX",
+        "TPG.AX",
+        "TCL.AX"
+    ]
+}

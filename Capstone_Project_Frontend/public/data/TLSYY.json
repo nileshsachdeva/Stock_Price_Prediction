@@ -1,0 +1,6893 @@
+[
+    {
+        "Open": 3.64,
+        "High": 3.675,
+        "Low": 3.63,
+        "Close": 3.66,
+        "Two_day_sentiment_tweets": 0.472365,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-02"
+    },
+    {
+        "Open": 3.67,
+        "High": 3.685,
+        "Low": 3.645,
+        "Close": 3.66,
+        "Two_day_sentiment_tweets": 0.247159,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-03"
+    },
+    {
+        "Open": 3.68,
+        "High": 3.69,
+        "Low": 3.67,
+        "Close": 3.68,
+        "Two_day_sentiment_tweets": 0.137848,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-04"
+    },
+    {
+        "Open": 3.7,
+        "High": 3.73,
+        "Low": 3.69,
+        "Close": 3.73,
+        "Two_day_sentiment_tweets": 0.2379,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-05"
+    },
+    {
+        "Open": 3.74,
+        "High": 3.76,
+        "Low": 3.73,
+        "Close": 3.75,
+        "Two_day_sentiment_tweets": -0.09028,
+        "AverageSentimentNews": 0.09660833333333334,
+        "Date": "2018-01-08"
+    },
+    {
+        "Open": 3.77,
+        "High": 3.785,
+        "Low": 3.75,
+        "Close": 3.75,
+        "Two_day_sentiment_tweets": -0.03323,
+        "AverageSentimentNews": 0.05135,
+        "Date": "2018-01-09"
+    },
+    {
+        "Open": 3.78,
+        "High": 3.78,
+        "Low": 3.7,
+        "Close": 3.71,
+        "Two_day_sentiment_tweets": 0.004215,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-10"
+    },
+    {
+        "Open": 3.7,
+        "High": 3.735,
+        "Low": 3.68,
+        "Close": 3.71,
+        "Two_day_sentiment_tweets": 0.132151,
+        "AverageSentimentNews": -0.20095,
+        "Date": "2018-01-11"
+    },
+    {
+        "Open": 3.73,
+        "High": 3.75,
+        "Low": 3.7,
+        "Close": 3.74,
+        "Two_day_sentiment_tweets": -0.1715,
+        "AverageSentimentNews": 0.1103318181818182,
+        "Date": "2018-01-12"
+    },
+    {
+        "Open": 3.75,
+        "High": 3.76,
+        "Low": 3.7,
+        "Close": 3.71,
+        "Two_day_sentiment_tweets": -0.03164,
+        "AverageSentimentNews": 0.025,
+        "Date": "2018-01-15"
+    },
+    {
+        "Open": 3.7,
+        "High": 3.7,
+        "Low": 3.64,
+        "Close": 3.65,
+        "Two_day_sentiment_tweets": -0.03308,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-16"
+    },
+    {
+        "Open": 3.65,
+        "High": 3.66,
+        "Low": 3.6,
+        "Close": 3.6,
+        "Two_day_sentiment_tweets": -0.02899,
+        "AverageSentimentNews": 0.1312428571428571,
+        "Date": "2018-01-17"
+    },
+    {
+        "Open": 3.63,
+        "High": 3.66,
+        "Low": 3.61,
+        "Close": 3.62,
+        "Two_day_sentiment_tweets": 0.083811,
+        "AverageSentimentNews": 0.4786428571428571,
+        "Date": "2018-01-18"
+    },
+    {
+        "Open": 3.62,
+        "High": 3.63,
+        "Low": 3.55,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": 0.083811,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-19"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.61,
+        "Low": 3.57,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": 0.050326,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-22"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.59,
+        "Low": 3.56,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": 0.136995,
+        "AverageSentimentNews": -0.07266111111111112,
+        "Date": "2018-01-23"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.59,
+        "Low": 3.56,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": 0.269755,
+        "AverageSentimentNews": 0.03571022727272728,
+        "Date": "2018-01-24"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.57,
+        "Low": 3.53,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": 0.128722,
+        "AverageSentimentNews": 0.01704545454545454,
+        "Date": "2018-01-25"
+    },
+    {
+        "Open": 3.57,
+        "High": 3.65,
+        "Low": 3.565,
+        "Close": 3.62,
+        "Two_day_sentiment_tweets": 0.198862,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-29"
+    },
+    {
+        "Open": 3.61,
+        "High": 3.635,
+        "Low": 3.6,
+        "Close": 3.6,
+        "Two_day_sentiment_tweets": 0.198862,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-30"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.69,
+        "Low": 3.575,
+        "Close": 3.67,
+        "Two_day_sentiment_tweets": 0.242584,
+        "AverageSentimentNews": 0,
+        "Date": "2018-01-31"
+    },
+    {
+        "Open": 3.68,
+        "High": 3.68,
+        "Low": 3.62,
+        "Close": 3.64,
+        "Two_day_sentiment_tweets": 0.353965,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-01"
+    },
+    {
+        "Open": 3.63,
+        "High": 3.675,
+        "Low": 3.59,
+        "Close": 3.67,
+        "Two_day_sentiment_tweets": 0.23672,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-02"
+    },
+    {
+        "Open": 3.64,
+        "High": 3.64,
+        "Low": 3.605,
+        "Close": 3.62,
+        "Two_day_sentiment_tweets": 0.311918,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-05"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.56,
+        "Low": 3.48,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.10239,
+        "AverageSentimentNews": 0.1909,
+        "Date": "2018-02-06"
+    },
+    {
+        "Open": 3.54,
+        "High": 3.57,
+        "Low": 3.5,
+        "Close": 3.5,
+        "Two_day_sentiment_tweets": 0.058401,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-07"
+    },
+    {
+        "Open": 3.49,
+        "High": 3.57,
+        "Low": 3.49,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": 0.165059,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-08"
+    },
+    {
+        "Open": 3.51,
+        "High": 3.52,
+        "Low": 3.49,
+        "Close": 3.49,
+        "Two_day_sentiment_tweets": 0.162413,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-09"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.5,
+        "Low": 3.43,
+        "Close": 3.45,
+        "Two_day_sentiment_tweets": 0.180443,
+        "AverageSentimentNews": -0.0214611111111111,
+        "Date": "2018-02-12"
+    },
+    {
+        "Open": 3.47,
+        "High": 3.52,
+        "Low": 3.465,
+        "Close": 3.48,
+        "Two_day_sentiment_tweets": 0.238195,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-13"
+    },
+    {
+        "Open": 3.49,
+        "High": 3.5,
+        "Low": 3.43,
+        "Close": 3.43,
+        "Two_day_sentiment_tweets": 0.067077,
+        "AverageSentimentNews": 0.2866,
+        "Date": "2018-02-14"
+    },
+    {
+        "Open": 3.42,
+        "High": 3.5,
+        "Low": 3.42,
+        "Close": 3.45,
+        "Two_day_sentiment_tweets": 0.107582,
+        "AverageSentimentNews": -0.2328222222222222,
+        "Date": "2018-02-15"
+    },
+    {
+        "Open": 3.47,
+        "High": 3.485,
+        "Low": 3.43,
+        "Close": 3.43,
+        "Two_day_sentiment_tweets": 0.107582,
+        "AverageSentimentNews": -0.01698611111111111,
+        "Date": "2018-02-16"
+    },
+    {
+        "Open": 3.44,
+        "High": 3.46,
+        "Low": 3.42,
+        "Close": 3.44,
+        "Two_day_sentiment_tweets": 0.366416,
+        "AverageSentimentNews": 0.27115,
+        "Date": "2018-02-19"
+    },
+    {
+        "Open": 3.43,
+        "High": 3.45,
+        "Low": 3.415,
+        "Close": 3.44,
+        "Two_day_sentiment_tweets": 0.143195,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-20"
+    },
+    {
+        "Open": 3.43,
+        "High": 3.44,
+        "Low": 3.41,
+        "Close": 3.43,
+        "Two_day_sentiment_tweets": 0.145596,
+        "AverageSentimentNews": -0.517525,
+        "Date": "2018-02-21"
+    },
+    {
+        "Open": 3.43,
+        "High": 3.45,
+        "Low": 3.42,
+        "Close": 3.43,
+        "Two_day_sentiment_tweets": 0.159942,
+        "AverageSentimentNews": 0.1591,
+        "Date": "2018-02-22"
+    },
+    {
+        "Open": 3.46,
+        "High": 3.48,
+        "Low": 3.44,
+        "Close": 3.48,
+        "Two_day_sentiment_tweets": 0.164867,
+        "AverageSentimentNews": -0.3283833333333333,
+        "Date": "2018-02-23"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.525,
+        "Low": 3.48,
+        "Close": 3.52,
+        "Two_day_sentiment_tweets": 0.048467,
+        "AverageSentimentNews": 0,
+        "Date": "2018-02-26"
+    },
+    {
+        "Open": 3.54,
+        "High": 3.54,
+        "Low": 3.48,
+        "Close": 3.49,
+        "Two_day_sentiment_tweets": 0.008681,
+        "AverageSentimentNews": 0.2351,
+        "Date": "2018-02-27"
+    },
+    {
+        "Open": 3.37,
+        "High": 3.39,
+        "Low": 3.34,
+        "Close": 3.35,
+        "Two_day_sentiment_tweets": 0.103027,
+        "AverageSentimentNews": 0.06698333333333333,
+        "Date": "2018-02-28"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.35,
+        "Low": 3.29,
+        "Close": 3.32,
+        "Two_day_sentiment_tweets": 0.068464,
+        "AverageSentimentNews": -0.037,
+        "Date": "2018-03-01"
+    },
+    {
+        "Open": 3.31,
+        "High": 3.33,
+        "Low": 3.26,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": 0.284257,
+        "AverageSentimentNews": -0.299125,
+        "Date": "2018-03-02"
+    },
+    {
+        "Open": 3.27,
+        "High": 3.3,
+        "Low": 3.26,
+        "Close": 3.3,
+        "Two_day_sentiment_tweets": 0.220392,
+        "AverageSentimentNews": 0.0602,
+        "Date": "2018-03-05"
+    },
+    {
+        "Open": 3.32,
+        "High": 3.37,
+        "Low": 3.32,
+        "Close": 3.37,
+        "Two_day_sentiment_tweets": 0.220392,
+        "AverageSentimentNews": 0.1175300505050505,
+        "Date": "2018-03-06"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.36,
+        "Low": 3.32,
+        "Close": 3.35,
+        "Two_day_sentiment_tweets": 0.033427,
+        "AverageSentimentNews": -0.100475,
+        "Date": "2018-03-07"
+    },
+    {
+        "Open": 3.36,
+        "High": 3.39,
+        "Low": 3.35,
+        "Close": 3.39,
+        "Two_day_sentiment_tweets": -0.00736,
+        "AverageSentimentNews": 0,
+        "Date": "2018-03-08"
+    },
+    {
+        "Open": 3.39,
+        "High": 3.45,
+        "Low": 3.37,
+        "Close": 3.44,
+        "Two_day_sentiment_tweets": 0.188906,
+        "AverageSentimentNews": 0.06698333333333333,
+        "Date": "2018-03-09"
+    },
+    {
+        "Open": 3.46,
+        "High": 3.475,
+        "Low": 3.435,
+        "Close": 3.44,
+        "Two_day_sentiment_tweets": 0.623683,
+        "AverageSentimentNews": -0.0336659090909091,
+        "Date": "2018-03-12"
+    },
+    {
+        "Open": 3.44,
+        "High": 3.46,
+        "Low": 3.38,
+        "Close": 3.41,
+        "Two_day_sentiment_tweets": 0.190902,
+        "AverageSentimentNews": 0.22775,
+        "Date": "2018-03-13"
+    },
+    {
+        "Open": 3.38,
+        "High": 3.38,
+        "Low": 3.32,
+        "Close": 3.32,
+        "Two_day_sentiment_tweets": 0.190902,
+        "AverageSentimentNews": -0.216125,
+        "Date": "2018-03-14"
+    },
+    {
+        "Open": 3.28,
+        "High": 3.33,
+        "Low": 3.28,
+        "Close": 3.3,
+        "Two_day_sentiment_tweets": 0.124707,
+        "AverageSentimentNews": 0.1264666666666666,
+        "Date": "2018-03-15"
+    },
+    {
+        "Open": 3.32,
+        "High": 3.35,
+        "Low": 3.31,
+        "Close": 3.35,
+        "Two_day_sentiment_tweets": -0.00025,
+        "AverageSentimentNews": 0,
+        "Date": "2018-03-16"
+    },
+    {
+        "Open": 3.36,
+        "High": 3.365,
+        "Low": 3.32,
+        "Close": 3.35,
+        "Two_day_sentiment_tweets": 0.073963,
+        "AverageSentimentNews": 0,
+        "Date": "2018-03-19"
+    },
+    {
+        "Open": 3.34,
+        "High": 3.37,
+        "Low": 3.32,
+        "Close": 3.37,
+        "Two_day_sentiment_tweets": 0.159082,
+        "AverageSentimentNews": 0.12837,
+        "Date": "2018-03-20"
+    },
+    {
+        "Open": 3.37,
+        "High": 3.37,
+        "Low": 3.3,
+        "Close": 3.33,
+        "Two_day_sentiment_tweets": 0.262047,
+        "AverageSentimentNews": 0.1901714285714285,
+        "Date": "2018-03-21"
+    },
+    {
+        "Open": 3.29,
+        "High": 3.3,
+        "Low": 3.26,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": 0.026596,
+        "AverageSentimentNews": 0.1321208333333333,
+        "Date": "2018-03-22"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.25,
+        "Low": 3.22,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": 0.196898,
+        "AverageSentimentNews": 0,
+        "Date": "2018-03-23"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.23,
+        "Low": 3.2,
+        "Close": 3.2,
+        "Two_day_sentiment_tweets": 0.049052,
+        "AverageSentimentNews": 0.09326250000000001,
+        "Date": "2018-03-26"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.235,
+        "Low": 3.2,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": 0.015835,
+        "AverageSentimentNews": 0,
+        "Date": "2018-03-27"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.2,
+        "Low": 3.175,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": 0.169147,
+        "AverageSentimentNews": 0.03125,
+        "Date": "2018-03-28"
+    },
+    {
+        "Open": 3.16,
+        "High": 3.18,
+        "Low": 3.13,
+        "Close": 3.14,
+        "Two_day_sentiment_tweets": 0.232173,
+        "AverageSentimentNews": 0.0625,
+        "Date": "2018-03-29"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.16,
+        "Low": 3.11,
+        "Close": 3.15,
+        "Two_day_sentiment_tweets": 0.418964,
+        "AverageSentimentNews": 0,
+        "Date": "2018-04-03"
+    },
+    {
+        "Open": 3.16,
+        "High": 3.17,
+        "Low": 3.11,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.112868,
+        "AverageSentimentNews": 0,
+        "Date": "2018-04-04"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.14,
+        "Low": 3.1,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.151177,
+        "AverageSentimentNews": 0.2596125,
+        "Date": "2018-04-05"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.11,
+        "Low": 3.09,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": -0.05206,
+        "AverageSentimentNews": 0,
+        "Date": "2018-04-06"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.13,
+        "Low": 3.08,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": -0.12328,
+        "AverageSentimentNews": -0.0625,
+        "Date": "2018-04-09"
+    },
+    {
+        "Open": 3.11,
+        "High": 3.16,
+        "Low": 3.095,
+        "Close": 3.15,
+        "Two_day_sentiment_tweets": -0.03146,
+        "AverageSentimentNews": 0.4546249999999999,
+        "Date": "2018-04-10"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.14,
+        "Low": 3.09,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": 0.022087,
+        "AverageSentimentNews": 0.12765,
+        "Date": "2018-04-11"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.12,
+        "Low": 3.08,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.079344,
+        "AverageSentimentNews": 0,
+        "Date": "2018-04-12"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.11,
+        "Low": 3.08,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": 0.079344,
+        "AverageSentimentNews": -0.04998333333333332,
+        "Date": "2018-04-13"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.12,
+        "Low": 3.09,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.070387,
+        "AverageSentimentNews": -0.094225,
+        "Date": "2018-04-16"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.16,
+        "Low": 3.12,
+        "Close": 3.15,
+        "Two_day_sentiment_tweets": 0.100944,
+        "AverageSentimentNews": 0.0793625,
+        "Date": "2018-04-17"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.17,
+        "Low": 3.1,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.32782,
+        "AverageSentimentNews": 0,
+        "Date": "2018-04-18"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.125,
+        "Low": 3.09,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.391806,
+        "AverageSentimentNews": -0.148,
+        "Date": "2018-04-19"
+    },
+    {
+        "Open": 3.11,
+        "High": 3.11,
+        "Low": 3.06,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.327385,
+        "AverageSentimentNews": 0.06698333333333333,
+        "Date": "2018-04-20"
+    },
+    {
+        "Open": 3.07,
+        "High": 3.09,
+        "Low": 3.05,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.236825,
+        "AverageSentimentNews": 0.0731,
+        "Date": "2018-04-23"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.11,
+        "Low": 3.08,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": 0.227012,
+        "AverageSentimentNews": 0.07955,
+        "Date": "2018-04-24"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.11,
+        "Low": 3.085,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.007756,
+        "AverageSentimentNews": -0.10115,
+        "Date": "2018-04-26"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.15,
+        "Low": 3.09,
+        "Close": 3.15,
+        "Two_day_sentiment_tweets": 0.007756,
+        "AverageSentimentNews": -0.05262499999999999,
+        "Date": "2018-04-27"
+    },
+    {
+        "Open": 3.15,
+        "High": 3.2,
+        "Low": 3.14,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": -0.01679,
+        "AverageSentimentNews": 0.20095,
+        "Date": "2018-04-30"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.21,
+        "Low": 3.17,
+        "Close": 3.2,
+        "Two_day_sentiment_tweets": 0.013466,
+        "AverageSentimentNews": 0,
+        "Date": "2018-05-01"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.21,
+        "Low": 3.16,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.370209,
+        "AverageSentimentNews": -0.05,
+        "Date": "2018-05-02"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.23,
+        "Low": 3.17,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": 0.105519,
+        "AverageSentimentNews": -0.2409,
+        "Date": "2018-05-03"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.27,
+        "Low": 3.22,
+        "Close": 3.24,
+        "Two_day_sentiment_tweets": 0.012409,
+        "AverageSentimentNews": -0.1611298701298701,
+        "Date": "2018-05-04"
+    },
+    {
+        "Open": 3.26,
+        "High": 3.26,
+        "Low": 3.23,
+        "Close": 3.25,
+        "Two_day_sentiment_tweets": -0.03642,
+        "AverageSentimentNews": 0,
+        "Date": "2018-05-07"
+    },
+    {
+        "Open": 3.26,
+        "High": 3.26,
+        "Low": 3.205,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": 0.064087,
+        "AverageSentimentNews": -0.1461166666666667,
+        "Date": "2018-05-08"
+    },
+    {
+        "Open": 3.24,
+        "High": 3.26,
+        "Low": 3.23,
+        "Close": 3.25,
+        "Two_day_sentiment_tweets": 0.322941,
+        "AverageSentimentNews": 0.1160454545454545,
+        "Date": "2018-05-09"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.24,
+        "Low": 3.16,
+        "Close": 3.17,
+        "Two_day_sentiment_tweets": 0.269063,
+        "AverageSentimentNews": 0.09647857142857144,
+        "Date": "2018-05-10"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.22,
+        "Low": 3.17,
+        "Close": 3.2,
+        "Two_day_sentiment_tweets": 0.38043,
+        "AverageSentimentNews": 0.194225,
+        "Date": "2018-05-11"
+    },
+    {
+        "Open": 3.15,
+        "High": 3.15,
+        "Low": 3.04,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.072457,
+        "AverageSentimentNews": -0.0683,
+        "Date": "2018-05-14"
+    },
+    {
+        "Open": 3,
+        "High": 3,
+        "Low": 2.865,
+        "Close": 2.87,
+        "Two_day_sentiment_tweets": 0.077417,
+        "AverageSentimentNews": 0.1034966666666666,
+        "Date": "2018-05-15"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.88,
+        "Low": 2.805,
+        "Close": 2.86,
+        "Two_day_sentiment_tweets": 0.022921,
+        "AverageSentimentNews": -0.321125,
+        "Date": "2018-05-16"
+    },
+    {
+        "Open": 2.86,
+        "High": 2.87,
+        "Low": 2.84,
+        "Close": 2.87,
+        "Two_day_sentiment_tweets": 0.230448,
+        "AverageSentimentNews": -0.04993928571428582,
+        "Date": "2018-05-17"
+    },
+    {
+        "Open": 2.87,
+        "High": 2.89,
+        "Low": 2.85,
+        "Close": 2.85,
+        "Two_day_sentiment_tweets": 0.161812,
+        "AverageSentimentNews": -0.1307333333333333,
+        "Date": "2018-05-18"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.85,
+        "Low": 2.79,
+        "Close": 2.8,
+        "Two_day_sentiment_tweets": -0.00018,
+        "AverageSentimentNews": -0.0566249458874459,
+        "Date": "2018-05-21"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.79,
+        "Low": 2.715,
+        "Close": 2.74,
+        "Two_day_sentiment_tweets": -0.0396,
+        "AverageSentimentNews": -0.0902388888888889,
+        "Date": "2018-05-22"
+    },
+    {
+        "Open": 2.75,
+        "High": 2.78,
+        "Low": 2.74,
+        "Close": 2.78,
+        "Two_day_sentiment_tweets": -0.05938,
+        "AverageSentimentNews": -0.111525,
+        "Date": "2018-05-23"
+    },
+    {
+        "Open": 2.76,
+        "High": 2.79,
+        "Low": 2.75,
+        "Close": 2.79,
+        "Two_day_sentiment_tweets": -0.24646,
+        "AverageSentimentNews": -0.10115,
+        "Date": "2018-05-24"
+    },
+    {
+        "Open": 2.82,
+        "High": 2.92,
+        "Low": 2.82,
+        "Close": 2.87,
+        "Two_day_sentiment_tweets": -0.15318,
+        "AverageSentimentNews": 0,
+        "Date": "2018-05-25"
+    },
+    {
+        "Open": 2.88,
+        "High": 2.88,
+        "Low": 2.825,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": -0.12763,
+        "AverageSentimentNews": -0.13815,
+        "Date": "2018-05-28"
+    },
+    {
+        "Open": 2.83,
+        "High": 2.84,
+        "Low": 2.8,
+        "Close": 2.81,
+        "Two_day_sentiment_tweets": -0.08692,
+        "AverageSentimentNews": 0,
+        "Date": "2018-05-29"
+    },
+    {
+        "Open": 2.79,
+        "High": 2.8,
+        "Low": 2.76,
+        "Close": 2.79,
+        "Two_day_sentiment_tweets": -0.01672,
+        "AverageSentimentNews": 0.01241250000000001,
+        "Date": "2018-05-30"
+    },
+    {
+        "Open": 2.79,
+        "High": 2.82,
+        "Low": 2.78,
+        "Close": 2.8,
+        "Two_day_sentiment_tweets": -0.10968,
+        "AverageSentimentNews": 0.01,
+        "Date": "2018-05-31"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.8,
+        "Low": 2.77,
+        "Close": 2.78,
+        "Two_day_sentiment_tweets": -0.10968,
+        "AverageSentimentNews": 0,
+        "Date": "2018-06-01"
+    },
+    {
+        "Open": 2.79,
+        "High": 2.8,
+        "Low": 2.75,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.026158,
+        "AverageSentimentNews": 0.148,
+        "Date": "2018-06-04"
+    },
+    {
+        "Open": 2.75,
+        "High": 2.795,
+        "Low": 2.73,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.071883,
+        "AverageSentimentNews": 0.1028,
+        "Date": "2018-06-05"
+    },
+    {
+        "Open": 2.77,
+        "High": 2.79,
+        "Low": 2.75,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.118379,
+        "AverageSentimentNews": 0.09839761904761903,
+        "Date": "2018-06-06"
+    },
+    {
+        "Open": 2.77,
+        "High": 2.83,
+        "Low": 2.77,
+        "Close": 2.78,
+        "Two_day_sentiment_tweets": 0.1579,
+        "AverageSentimentNews": -0.1101,
+        "Date": "2018-06-07"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.805,
+        "Low": 2.765,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.179354,
+        "AverageSentimentNews": -0.0683,
+        "Date": "2018-06-08"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.795,
+        "Low": 2.75,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": 0.027656,
+        "AverageSentimentNews": -0.08333333333333333,
+        "Date": "2018-06-12"
+    },
+    {
+        "Open": 2.75,
+        "High": 2.77,
+        "Low": 2.74,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": -0.03033,
+        "AverageSentimentNews": 0,
+        "Date": "2018-06-13"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.905,
+        "Low": 2.78,
+        "Close": 2.9,
+        "Two_day_sentiment_tweets": 0.136579,
+        "AverageSentimentNews": 0.273,
+        "Date": "2018-06-14"
+    },
+    {
+        "Open": 2.93,
+        "High": 2.98,
+        "Low": 2.93,
+        "Close": 2.94,
+        "Two_day_sentiment_tweets": 0.181862,
+        "AverageSentimentNews": 0,
+        "Date": "2018-06-15"
+    },
+    {
+        "Open": 2.97,
+        "High": 2.97,
+        "Low": 2.86,
+        "Close": 2.87,
+        "Two_day_sentiment_tweets": 0.085071,
+        "AverageSentimentNews": -0.01296296296296297,
+        "Date": "2018-06-18"
+    },
+    {
+        "Open": 2.88,
+        "High": 2.91,
+        "Low": 2.86,
+        "Close": 2.91,
+        "Two_day_sentiment_tweets": 0.002998,
+        "AverageSentimentNews": 0.023005,
+        "Date": "2018-06-19"
+    },
+    {
+        "Open": 2.76,
+        "High": 2.78,
+        "Low": 2.695,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": -0.01881,
+        "AverageSentimentNews": -0.1511956349206349,
+        "Date": "2018-06-20"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.79,
+        "Low": 2.71,
+        "Close": 2.72,
+        "Two_day_sentiment_tweets": 0.119172,
+        "AverageSentimentNews": 0,
+        "Date": "2018-06-21"
+    },
+    {
+        "Open": 2.7,
+        "High": 2.71,
+        "Low": 2.64,
+        "Close": 2.68,
+        "Two_day_sentiment_tweets": 0.075236,
+        "AverageSentimentNews": -0.36475,
+        "Date": "2018-06-22"
+    },
+    {
+        "Open": 2.68,
+        "High": 2.73,
+        "Low": 2.65,
+        "Close": 2.66,
+        "Two_day_sentiment_tweets": -0.07308,
+        "AverageSentimentNews": 0,
+        "Date": "2018-06-25"
+    },
+    {
+        "Open": 2.65,
+        "High": 2.67,
+        "Low": 2.63,
+        "Close": 2.66,
+        "Two_day_sentiment_tweets": 0.055047,
+        "AverageSentimentNews": 0,
+        "Date": "2018-06-26"
+    },
+    {
+        "Open": 2.65,
+        "High": 2.655,
+        "Low": 2.61,
+        "Close": 2.62,
+        "Two_day_sentiment_tweets": 0.087948,
+        "AverageSentimentNews": 0.1909,
+        "Date": "2018-06-27"
+    },
+    {
+        "Open": 2.62,
+        "High": 2.64,
+        "Low": 2.6,
+        "Close": 2.62,
+        "Two_day_sentiment_tweets": -0.05357,
+        "AverageSentimentNews": 0,
+        "Date": "2018-06-28"
+    },
+    {
+        "Open": 2.63,
+        "High": 2.64,
+        "Low": 2.6,
+        "Close": 2.62,
+        "Two_day_sentiment_tweets": -0.04694,
+        "AverageSentimentNews": 0,
+        "Date": "2018-06-29"
+    },
+    {
+        "Open": 2.64,
+        "High": 2.65,
+        "Low": 2.62,
+        "Close": 2.63,
+        "Two_day_sentiment_tweets": 0.052864,
+        "AverageSentimentNews": 0.125,
+        "Date": "2018-07-02"
+    },
+    {
+        "Open": 2.64,
+        "High": 2.69,
+        "Low": 2.63,
+        "Close": 2.69,
+        "Two_day_sentiment_tweets": 0.052864,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-03"
+    },
+    {
+        "Open": 2.69,
+        "High": 2.74,
+        "Low": 2.68,
+        "Close": 2.71,
+        "Two_day_sentiment_tweets": 0.117805,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-04"
+    },
+    {
+        "Open": 2.74,
+        "High": 2.77,
+        "Low": 2.73,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": 0.261729,
+        "AverageSentimentNews": 0.0388888888888889,
+        "Date": "2018-07-05"
+    },
+    {
+        "Open": 2.79,
+        "High": 2.8,
+        "Low": 2.77,
+        "Close": 2.8,
+        "Two_day_sentiment_tweets": 0.257646,
+        "AverageSentimentNews": 0.365,
+        "Date": "2018-07-06"
+    },
+    {
+        "Open": 2.81,
+        "High": 2.81,
+        "Low": 2.77,
+        "Close": 2.8,
+        "Two_day_sentiment_tweets": 0.331734,
+        "AverageSentimentNews": 0.1280888888888889,
+        "Date": "2018-07-09"
+    },
+    {
+        "Open": 2.81,
+        "High": 2.81,
+        "Low": 2.77,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.331734,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-10"
+    },
+    {
+        "Open": 2.77,
+        "High": 2.775,
+        "Low": 2.72,
+        "Close": 2.75,
+        "Two_day_sentiment_tweets": 0.128256,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-11"
+    },
+    {
+        "Open": 2.75,
+        "High": 2.76,
+        "Low": 2.725,
+        "Close": 2.75,
+        "Two_day_sentiment_tweets": 0.202311,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-12"
+    },
+    {
+        "Open": 2.76,
+        "High": 2.76,
+        "Low": 2.74,
+        "Close": 2.75,
+        "Two_day_sentiment_tweets": 0.175006,
+        "AverageSentimentNews": -0.003933333333333335,
+        "Date": "2018-07-13"
+    },
+    {
+        "Open": 2.76,
+        "High": 2.8,
+        "Low": 2.74,
+        "Close": 2.79,
+        "Two_day_sentiment_tweets": 0.185389,
+        "AverageSentimentNews": 0.100475,
+        "Date": "2018-07-16"
+    },
+    {
+        "Open": 2.8,
+        "High": 2.8,
+        "Low": 2.75,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": 0.170843,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-17"
+    },
+    {
+        "Open": 2.76,
+        "High": 2.77,
+        "Low": 2.74,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.118802,
+        "AverageSentimentNews": -0.074,
+        "Date": "2018-07-18"
+    },
+    {
+        "Open": 2.76,
+        "High": 2.78,
+        "Low": 2.75,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": 0.118802,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-19"
+    },
+    {
+        "Open": 2.77,
+        "High": 2.8,
+        "Low": 2.76,
+        "Close": 2.79,
+        "Two_day_sentiment_tweets": 0.184564,
+        "AverageSentimentNews": 0.09841249999999996,
+        "Date": "2018-07-20"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.79,
+        "Low": 2.75,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": 0.045747,
+        "AverageSentimentNews": 0.1999813131313131,
+        "Date": "2018-07-23"
+    },
+    {
+        "Open": 2.75,
+        "High": 2.77,
+        "Low": 2.73,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": 0.020586,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-24"
+    },
+    {
+        "Open": 2.76,
+        "High": 2.76,
+        "Low": 2.73,
+        "Close": 2.73,
+        "Two_day_sentiment_tweets": 0.020586,
+        "AverageSentimentNews": 0.01136363636363636,
+        "Date": "2018-07-25"
+    },
+    {
+        "Open": 2.73,
+        "High": 2.74,
+        "Low": 2.72,
+        "Close": 2.72,
+        "Two_day_sentiment_tweets": 0.335738,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-26"
+    },
+    {
+        "Open": 2.74,
+        "High": 2.77,
+        "Low": 2.72,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": -0.07059,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-27"
+    },
+    {
+        "Open": 2.75,
+        "High": 2.82,
+        "Low": 2.75,
+        "Close": 2.81,
+        "Two_day_sentiment_tweets": 0.062466,
+        "AverageSentimentNews": -0.01061477272727273,
+        "Date": "2018-07-30"
+    },
+    {
+        "Open": 2.81,
+        "High": 2.85,
+        "Low": 2.805,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": 0.179752,
+        "AverageSentimentNews": 0,
+        "Date": "2018-07-31"
+    },
+    {
+        "Open": 2.84,
+        "High": 2.85,
+        "Low": 2.805,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": 0.202052,
+        "AverageSentimentNews": 0,
+        "Date": "2018-08-01"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.87,
+        "Low": 2.81,
+        "Close": 2.83,
+        "Two_day_sentiment_tweets": 0.523019,
+        "AverageSentimentNews": 0.05,
+        "Date": "2018-08-02"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.85,
+        "Low": 2.81,
+        "Close": 2.82,
+        "Two_day_sentiment_tweets": 0.292373,
+        "AverageSentimentNews": 0,
+        "Date": "2018-08-03"
+    },
+    {
+        "Open": 2.82,
+        "High": 2.86,
+        "Low": 2.81,
+        "Close": 2.86,
+        "Two_day_sentiment_tweets": 0.171845,
+        "AverageSentimentNews": -0.1662,
+        "Date": "2018-08-06"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.85,
+        "Low": 2.8,
+        "Close": 2.81,
+        "Two_day_sentiment_tweets": 0.114167,
+        "AverageSentimentNews": 0.0386,
+        "Date": "2018-08-07"
+    },
+    {
+        "Open": 2.8,
+        "High": 2.83,
+        "Low": 2.8,
+        "Close": 2.81,
+        "Two_day_sentiment_tweets": -0.26581,
+        "AverageSentimentNews": 0.1921977272727272,
+        "Date": "2018-08-08"
+    },
+    {
+        "Open": 2.82,
+        "High": 2.83,
+        "Low": 2.8,
+        "Close": 2.82,
+        "Two_day_sentiment_tweets": -0.08977,
+        "AverageSentimentNews": 0.1325625,
+        "Date": "2018-08-09"
+    },
+    {
+        "Open": 2.83,
+        "High": 2.85,
+        "Low": 2.81,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": -0.08977,
+        "AverageSentimentNews": 0.03931666666666674,
+        "Date": "2018-08-10"
+    },
+    {
+        "Open": 2.84,
+        "High": 2.85,
+        "Low": 2.81,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": 0.176478,
+        "AverageSentimentNews": 0.007358333333333337,
+        "Date": "2018-08-13"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.89,
+        "Low": 2.84,
+        "Close": 2.89,
+        "Two_day_sentiment_tweets": 0.176478,
+        "AverageSentimentNews": 0.3141734848484848,
+        "Date": "2018-08-14"
+    },
+    {
+        "Open": 2.89,
+        "High": 2.915,
+        "Low": 2.87,
+        "Close": 2.89,
+        "Two_day_sentiment_tweets": 0.176478,
+        "AverageSentimentNews": 0.1200022222222222,
+        "Date": "2018-08-15"
+    },
+    {
+        "Open": 2.92,
+        "High": 3.08,
+        "Low": 2.89,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": 0.24434,
+        "AverageSentimentNews": 0.3934277777777778,
+        "Date": "2018-08-16"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.13,
+        "Low": 3.02,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.352638,
+        "AverageSentimentNews": 0.243860606060606,
+        "Date": "2018-08-17"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.11,
+        "Low": 3.07,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.260483,
+        "AverageSentimentNews": -0.08895,
+        "Date": "2018-08-20"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.09,
+        "Low": 3.03,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": 0.206266,
+        "AverageSentimentNews": 0.1213477272727272,
+        "Date": "2018-08-21"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.27,
+        "Low": 3.065,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": 0.206266,
+        "AverageSentimentNews": 0.15455625,
+        "Date": "2018-08-22"
+    },
+    {
+        "Open": 3.3,
+        "High": 3.405,
+        "Low": 3.3,
+        "Close": 3.34,
+        "Two_day_sentiment_tweets": 0.399586,
+        "AverageSentimentNews": 0,
+        "Date": "2018-08-23"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.35,
+        "Low": 3.2,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": 0.246359,
+        "AverageSentimentNews": 0.2317,
+        "Date": "2018-08-24"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.28,
+        "Low": 3.2,
+        "Close": 3.23,
+        "Two_day_sentiment_tweets": 0.349734,
+        "AverageSentimentNews": 0.03409090909090909,
+        "Date": "2018-08-27"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.23,
+        "Low": 3.155,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": 0.366001,
+        "AverageSentimentNews": -0.2787,
+        "Date": "2018-08-28"
+    },
+    {
+        "Open": 3.05,
+        "High": 3.15,
+        "Low": 3.04,
+        "Close": 3.14,
+        "Two_day_sentiment_tweets": 0.442301,
+        "AverageSentimentNews": 0.07823181818181817,
+        "Date": "2018-08-29"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.28,
+        "Low": 3.19,
+        "Close": 3.23,
+        "Two_day_sentiment_tweets": 0.330749,
+        "AverageSentimentNews": 0,
+        "Date": "2018-08-30"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.215,
+        "Low": 3.02,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": 0.305862,
+        "AverageSentimentNews": 0.1564238636363636,
+        "Date": "2018-08-31"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.12,
+        "Low": 3.01,
+        "Close": 3.02,
+        "Two_day_sentiment_tweets": 0.139444,
+        "AverageSentimentNews": 0,
+        "Date": "2018-09-03"
+    },
+    {
+        "Open": 3,
+        "High": 3.08,
+        "Low": 2.99,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.186085,
+        "AverageSentimentNews": -0.1495035353535354,
+        "Date": "2018-09-04"
+    },
+    {
+        "Open": 3.01,
+        "High": 3.03,
+        "Low": 2.98,
+        "Close": 3.02,
+        "Two_day_sentiment_tweets": 0.207782,
+        "AverageSentimentNews": -0.1025780303030303,
+        "Date": "2018-09-05"
+    },
+    {
+        "Open": 3.07,
+        "High": 3.16,
+        "Low": 3.055,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.17695,
+        "AverageSentimentNews": 0.0877875,
+        "Date": "2018-09-06"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.13,
+        "Low": 3.08,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.381044,
+        "AverageSentimentNews": 0,
+        "Date": "2018-09-07"
+    },
+    {
+        "Open": 3.11,
+        "High": 3.13,
+        "Low": 3.09,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.209137,
+        "AverageSentimentNews": 0.17,
+        "Date": "2018-09-10"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.215,
+        "Low": 3.12,
+        "Close": 3.2,
+        "Two_day_sentiment_tweets": 0.305388,
+        "AverageSentimentNews": -0.025,
+        "Date": "2018-09-11"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.2,
+        "Low": 3.14,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": 0.40064,
+        "AverageSentimentNews": 0.1389333333333334,
+        "Date": "2018-09-12"
+    },
+    {
+        "Open": 3.16,
+        "High": 3.195,
+        "Low": 3.15,
+        "Close": 3.17,
+        "Two_day_sentiment_tweets": 0.514882,
+        "AverageSentimentNews": 0.064,
+        "Date": "2018-09-13"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.2,
+        "Low": 3.165,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.112593,
+        "AverageSentimentNews": 0.064,
+        "Date": "2018-09-14"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.25,
+        "Low": 3.17,
+        "Close": 3.24,
+        "Two_day_sentiment_tweets": 0.129215,
+        "AverageSentimentNews": 0.244725,
+        "Date": "2018-09-17"
+    },
+    {
+        "Open": 3.24,
+        "High": 3.28,
+        "Low": 3.2,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": -0.10997,
+        "AverageSentimentNews": 0.00827500000000001,
+        "Date": "2018-09-18"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.23,
+        "Low": 3.15,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.221062,
+        "AverageSentimentNews": 0.264925,
+        "Date": "2018-09-19"
+    },
+    {
+        "Open": 3.14,
+        "High": 3.17,
+        "Low": 3.13,
+        "Close": 3.14,
+        "Two_day_sentiment_tweets": 0.331096,
+        "AverageSentimentNews": 0.3552833333333333,
+        "Date": "2018-09-20"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.19,
+        "Low": 3.13,
+        "Close": 3.15,
+        "Two_day_sentiment_tweets": 0.345357,
+        "AverageSentimentNews": -0.12765,
+        "Date": "2018-09-21"
+    },
+    {
+        "Open": 3.15,
+        "High": 3.18,
+        "Low": 3.13,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": -0.09968,
+        "AverageSentimentNews": -0.192925,
+        "Date": "2018-09-24"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.21,
+        "Low": 3.15,
+        "Close": 3.17,
+        "Two_day_sentiment_tweets": -0.20858,
+        "AverageSentimentNews": 0,
+        "Date": "2018-09-25"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.22,
+        "Low": 3.18,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.016493,
+        "AverageSentimentNews": 0,
+        "Date": "2018-09-26"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.21,
+        "Low": 3.16,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": -0.05981,
+        "AverageSentimentNews": 0.300075,
+        "Date": "2018-09-27"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.22,
+        "Low": 3.17,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": -0.05227,
+        "AverageSentimentNews": -0.025,
+        "Date": "2018-09-28"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.19,
+        "Low": 3.16,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": 0.201073,
+        "AverageSentimentNews": 0,
+        "Date": "2018-10-01"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.22,
+        "Low": 3.17,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.201073,
+        "AverageSentimentNews": -0.1570222222222222,
+        "Date": "2018-10-02"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.21,
+        "Low": 3.18,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": 0.034699,
+        "AverageSentimentNews": -0.08055555555555556,
+        "Date": "2018-10-03"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.26,
+        "Low": 3.19,
+        "Close": 3.25,
+        "Two_day_sentiment_tweets": 0.115105,
+        "AverageSentimentNews": 0.0625,
+        "Date": "2018-10-04"
+    },
+    {
+        "Open": 3.24,
+        "High": 3.27,
+        "Low": 3.22,
+        "Close": 3.25,
+        "Two_day_sentiment_tweets": 0.001007,
+        "AverageSentimentNews": 0,
+        "Date": "2018-10-05"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.255,
+        "Low": 3.19,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.215679,
+        "AverageSentimentNews": -0.260575,
+        "Date": "2018-10-08"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.19,
+        "Low": 3.14,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": 0.267002,
+        "AverageSentimentNews": 0.08786875,
+        "Date": "2018-10-09"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.235,
+        "Low": 3.185,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": 0.267002,
+        "AverageSentimentNews": 0,
+        "Date": "2018-10-10"
+    },
+    {
+        "Open": 3.15,
+        "High": 3.19,
+        "Low": 3.11,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.267002,
+        "AverageSentimentNews": 0.09083636363636363,
+        "Date": "2018-10-11"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.11,
+        "Low": 3.04,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.267002,
+        "AverageSentimentNews": -0.01460833333333334,
+        "Date": "2018-10-12"
+    },
+    {
+        "Open": 3.07,
+        "High": 3.13,
+        "Low": 3.065,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": 0.11752,
+        "AverageSentimentNews": 0.085,
+        "Date": "2018-10-15"
+    },
+    {
+        "Open": 3.11,
+        "High": 3.145,
+        "Low": 3.02,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": 0.11752,
+        "AverageSentimentNews": -0.12615,
+        "Date": "2018-10-16"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.09,
+        "Low": 3.045,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": -0.29008,
+        "AverageSentimentNews": 0.015825,
+        "Date": "2018-10-17"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.16,
+        "Low": 3.05,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": -0.25439,
+        "AverageSentimentNews": 0.04340666666666667,
+        "Date": "2018-10-18"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.175,
+        "Low": 3.12,
+        "Close": 3.17,
+        "Two_day_sentiment_tweets": 0.056462,
+        "AverageSentimentNews": 0,
+        "Date": "2018-10-19"
+    },
+    {
+        "Open": 3.16,
+        "High": 3.185,
+        "Low": 3.135,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.109007,
+        "AverageSentimentNews": 0.04904545454545454,
+        "Date": "2018-10-22"
+    },
+    {
+        "Open": 3.16,
+        "High": 3.16,
+        "Low": 3.12,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.045224,
+        "AverageSentimentNews": 0.186775,
+        "Date": "2018-10-23"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.15,
+        "Low": 3.11,
+        "Close": 3.14,
+        "Two_day_sentiment_tweets": 0.107228,
+        "AverageSentimentNews": 0.1292125,
+        "Date": "2018-10-24"
+    },
+    {
+        "Open": 3.11,
+        "High": 3.12,
+        "Low": 3.05,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": 0.173211,
+        "AverageSentimentNews": 0.05860818181818182,
+        "Date": "2018-10-25"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.075,
+        "Low": 3.01,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": 0.013341,
+        "AverageSentimentNews": -0.1342564814814815,
+        "Date": "2018-10-26"
+    },
+    {
+        "Open": 3.07,
+        "High": 3.125,
+        "Low": 3.045,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.093561,
+        "AverageSentimentNews": 0.1967333333333333,
+        "Date": "2018-10-29"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.125,
+        "Low": 3.085,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.144247,
+        "AverageSentimentNews": 0.1825214285714286,
+        "Date": "2018-10-30"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.11,
+        "Low": 3.05,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": -0.01141,
+        "AverageSentimentNews": 0,
+        "Date": "2018-10-31"
+    },
+    {
+        "Open": 3.04,
+        "High": 3.05,
+        "Low": 3.01,
+        "Close": 3.02,
+        "Two_day_sentiment_tweets": -0.02129,
+        "AverageSentimentNews": 0.08386158008658012,
+        "Date": "2018-11-01"
+    },
+    {
+        "Open": 3.01,
+        "High": 3.06,
+        "Low": 3,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": -0.02479,
+        "AverageSentimentNews": 0.02965,
+        "Date": "2018-11-02"
+    },
+    {
+        "Open": 3.03,
+        "High": 3.05,
+        "Low": 3.01,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": -0.06019,
+        "AverageSentimentNews": -0.1138166666666667,
+        "Date": "2018-11-05"
+    },
+    {
+        "Open": 3.02,
+        "High": 3.07,
+        "Low": 3.01,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": -0.04597,
+        "AverageSentimentNews": -0.148,
+        "Date": "2018-11-06"
+    },
+    {
+        "Open": 3.04,
+        "High": 3.09,
+        "Low": 3.02,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.247466,
+        "AverageSentimentNews": 0.1072420634920635,
+        "Date": "2018-11-07"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.095,
+        "Low": 3.03,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.087154,
+        "AverageSentimentNews": 0.13765,
+        "Date": "2018-11-08"
+    },
+    {
+        "Open": 3.03,
+        "High": 3.06,
+        "Low": 3.025,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.113225,
+        "AverageSentimentNews": 0.1008196969696969,
+        "Date": "2018-11-09"
+    },
+    {
+        "Open": 3.03,
+        "High": 3.07,
+        "Low": 3.03,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": 0.021336,
+        "AverageSentimentNews": 0.1162420033670034,
+        "Date": "2018-11-12"
+    },
+    {
+        "Open": 3.04,
+        "High": 3.06,
+        "Low": 3.03,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": -0.03835,
+        "AverageSentimentNews": 0,
+        "Date": "2018-11-13"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.1,
+        "Low": 3.04,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": -0.11836,
+        "AverageSentimentNews": -0.085,
+        "Date": "2018-11-14"
+    },
+    {
+        "Open": 3.05,
+        "High": 3.075,
+        "Low": 3,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": -0.06694,
+        "AverageSentimentNews": 0,
+        "Date": "2018-11-15"
+    },
+    {
+        "Open": 3.03,
+        "High": 3.05,
+        "Low": 3.01,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.052378,
+        "AverageSentimentNews": 0,
+        "Date": "2018-11-16"
+    },
+    {
+        "Open": 3.04,
+        "High": 3.05,
+        "Low": 3.01,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": 0.136916,
+        "AverageSentimentNews": 0,
+        "Date": "2018-11-19"
+    },
+    {
+        "Open": 3.02,
+        "High": 3.03,
+        "Low": 2.97,
+        "Close": 3.01,
+        "Two_day_sentiment_tweets": -0.05388,
+        "AverageSentimentNews": 0.3764,
+        "Date": "2018-11-20"
+    },
+    {
+        "Open": 2.98,
+        "High": 3.01,
+        "Low": 2.96,
+        "Close": 3,
+        "Two_day_sentiment_tweets": 0.005315,
+        "AverageSentimentNews": -0.1621,
+        "Date": "2018-11-21"
+    },
+    {
+        "Open": 2.98,
+        "High": 3,
+        "Low": 2.96,
+        "Close": 2.97,
+        "Two_day_sentiment_tweets": -0.16523,
+        "AverageSentimentNews": 0.2419969696969697,
+        "Date": "2018-11-22"
+    },
+    {
+        "Open": 2.96,
+        "High": 2.965,
+        "Low": 2.91,
+        "Close": 2.92,
+        "Two_day_sentiment_tweets": 0.032081,
+        "AverageSentimentNews": -0.0125,
+        "Date": "2018-11-23"
+    },
+    {
+        "Open": 2.9,
+        "High": 2.92,
+        "Low": 2.84,
+        "Close": 2.87,
+        "Two_day_sentiment_tweets": -0.25,
+        "AverageSentimentNews": 0,
+        "Date": "2018-11-26"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.95,
+        "Low": 2.83,
+        "Close": 2.95,
+        "Two_day_sentiment_tweets": -0.02022,
+        "AverageSentimentNews": 0.075,
+        "Date": "2018-11-27"
+    },
+    {
+        "Open": 2.95,
+        "High": 2.97,
+        "Low": 2.915,
+        "Close": 2.94,
+        "Two_day_sentiment_tweets": 0.113305,
+        "AverageSentimentNews": 0.4685527777777778,
+        "Date": "2018-11-28"
+    },
+    {
+        "Open": 2.94,
+        "High": 2.98,
+        "Low": 2.92,
+        "Close": 2.96,
+        "Two_day_sentiment_tweets": 0.251591,
+        "AverageSentimentNews": 0.0716,
+        "Date": "2018-11-29"
+    },
+    {
+        "Open": 2.94,
+        "High": 2.95,
+        "Low": 2.91,
+        "Close": 2.93,
+        "Two_day_sentiment_tweets": 0.101308,
+        "AverageSentimentNews": 0.119175,
+        "Date": "2018-11-30"
+    },
+    {
+        "Open": 2.95,
+        "High": 2.98,
+        "Low": 2.915,
+        "Close": 2.98,
+        "Two_day_sentiment_tweets": 0.043815,
+        "AverageSentimentNews": 0.194175,
+        "Date": "2018-12-03"
+    },
+    {
+        "Open": 2.96,
+        "High": 3.03,
+        "Low": 2.95,
+        "Close": 3.01,
+        "Two_day_sentiment_tweets": 0.16814,
+        "AverageSentimentNews": 0.025675,
+        "Date": "2018-12-04"
+    },
+    {
+        "Open": 2.94,
+        "High": 3.03,
+        "Low": 2.92,
+        "Close": 3.02,
+        "Two_day_sentiment_tweets": 0.129532,
+        "AverageSentimentNews": 0.1599984848484849,
+        "Date": "2018-12-05"
+    },
+    {
+        "Open": 2.99,
+        "High": 3.04,
+        "Low": 2.98,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.279666,
+        "AverageSentimentNews": 0,
+        "Date": "2018-12-06"
+    },
+    {
+        "Open": 3.04,
+        "High": 3.09,
+        "Low": 3.03,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.186708,
+        "AverageSentimentNews": 0,
+        "Date": "2018-12-07"
+    },
+    {
+        "Open": 3.05,
+        "High": 3.075,
+        "Low": 3.02,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.175663,
+        "AverageSentimentNews": 0.1850000000000001,
+        "Date": "2018-12-10"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.085,
+        "Low": 3.035,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": 0.327111,
+        "AverageSentimentNews": -0.2370690909090909,
+        "Date": "2018-12-11"
+    },
+    {
+        "Open": 3.05,
+        "High": 3.06,
+        "Low": 2.975,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": 0.314556,
+        "AverageSentimentNews": 0.139645,
+        "Date": "2018-12-12"
+    },
+    {
+        "Open": 2.86,
+        "High": 2.975,
+        "Low": 2.86,
+        "Close": 2.93,
+        "Two_day_sentiment_tweets": 0.208946,
+        "AverageSentimentNews": -0.4883500000000001,
+        "Date": "2018-12-13"
+    },
+    {
+        "Open": 2.92,
+        "High": 2.94,
+        "Low": 2.86,
+        "Close": 2.87,
+        "Two_day_sentiment_tweets": -0.01971,
+        "AverageSentimentNews": 0.195675,
+        "Date": "2018-12-14"
+    },
+    {
+        "Open": 2.87,
+        "High": 2.91,
+        "Low": 2.855,
+        "Close": 2.9,
+        "Two_day_sentiment_tweets": -0.08254,
+        "AverageSentimentNews": 0.03409090909090909,
+        "Date": "2018-12-17"
+    },
+    {
+        "Open": 2.88,
+        "High": 2.95,
+        "Low": 2.855,
+        "Close": 2.91,
+        "Two_day_sentiment_tweets": -0.09837,
+        "AverageSentimentNews": 0.09100000000000001,
+        "Date": "2018-12-18"
+    },
+    {
+        "Open": 2.88,
+        "High": 2.9,
+        "Low": 2.86,
+        "Close": 2.88,
+        "Two_day_sentiment_tweets": -0.11628,
+        "AverageSentimentNews": -0.006753030303030298,
+        "Date": "2018-12-19"
+    },
+    {
+        "Open": 2.89,
+        "High": 2.92,
+        "Low": 2.85,
+        "Close": 2.85,
+        "Two_day_sentiment_tweets": 0.08144,
+        "AverageSentimentNews": 0.4553,
+        "Date": "2018-12-20"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.865,
+        "Low": 2.74,
+        "Close": 2.74,
+        "Two_day_sentiment_tweets": 0.150296,
+        "AverageSentimentNews": 0.085,
+        "Date": "2018-12-21"
+    },
+    {
+        "Open": 2.71,
+        "High": 2.78,
+        "Low": 2.71,
+        "Close": 2.78,
+        "Two_day_sentiment_tweets": 0.032652,
+        "AverageSentimentNews": 0.338,
+        "Date": "2018-12-24"
+    },
+    {
+        "Open": 2.82,
+        "High": 2.84,
+        "Low": 2.805,
+        "Close": 2.82,
+        "Two_day_sentiment_tweets": -0.09628,
+        "AverageSentimentNews": -0.08333333333333333,
+        "Date": "2018-12-27"
+    },
+    {
+        "Open": 2.81,
+        "High": 2.84,
+        "Low": 2.8,
+        "Close": 2.83,
+        "Two_day_sentiment_tweets": -0.09628,
+        "AverageSentimentNews": 0,
+        "Date": "2018-12-28"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.87,
+        "Low": 2.84,
+        "Close": 2.85,
+        "Two_day_sentiment_tweets": -0.00973,
+        "AverageSentimentNews": 0,
+        "Date": "2018-12-31"
+    },
+    {
+        "Open": 2.83,
+        "High": 2.84,
+        "Low": 2.77,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.083836,
+        "AverageSentimentNews": -0.19225,
+        "Date": "2019-01-02"
+    },
+    {
+        "Open": 2.81,
+        "High": 2.855,
+        "Low": 2.79,
+        "Close": 2.85,
+        "Two_day_sentiment_tweets": -0.01958,
+        "AverageSentimentNews": 0,
+        "Date": "2019-01-03"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.9,
+        "Low": 2.83,
+        "Close": 2.89,
+        "Two_day_sentiment_tweets": 0.267497,
+        "AverageSentimentNews": 0.1591,
+        "Date": "2019-01-04"
+    },
+    {
+        "Open": 2.88,
+        "High": 2.915,
+        "Low": 2.85,
+        "Close": 2.85,
+        "Two_day_sentiment_tweets": 0.111032,
+        "AverageSentimentNews": 0.1015583333333333,
+        "Date": "2019-01-07"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.94,
+        "Low": 2.85,
+        "Close": 2.9,
+        "Two_day_sentiment_tweets": 0.127225,
+        "AverageSentimentNews": 0.02145,
+        "Date": "2019-01-08"
+    },
+    {
+        "Open": 2.9,
+        "High": 2.93,
+        "Low": 2.89,
+        "Close": 2.91,
+        "Two_day_sentiment_tweets": 0.098811,
+        "AverageSentimentNews": 0.3498,
+        "Date": "2019-01-09"
+    },
+    {
+        "Open": 2.91,
+        "High": 2.92,
+        "Low": 2.88,
+        "Close": 2.89,
+        "Two_day_sentiment_tweets": 0.023602,
+        "AverageSentimentNews": 0.1475,
+        "Date": "2019-01-10"
+    },
+    {
+        "Open": 2.9,
+        "High": 2.94,
+        "Low": 2.885,
+        "Close": 2.93,
+        "Two_day_sentiment_tweets": 0.019326,
+        "AverageSentimentNews": -0.04672727272727272,
+        "Date": "2019-01-11"
+    },
+    {
+        "Open": 2.93,
+        "High": 2.98,
+        "Low": 2.9,
+        "Close": 2.92,
+        "Two_day_sentiment_tweets": 0.030671,
+        "AverageSentimentNews": -0.00705,
+        "Date": "2019-01-14"
+    },
+    {
+        "Open": 2.93,
+        "High": 2.93,
+        "Low": 2.88,
+        "Close": 2.9,
+        "Two_day_sentiment_tweets": 0.058519,
+        "AverageSentimentNews": 0,
+        "Date": "2019-01-15"
+    },
+    {
+        "Open": 2.89,
+        "High": 2.94,
+        "Low": 2.89,
+        "Close": 2.93,
+        "Two_day_sentiment_tweets": 0.174759,
+        "AverageSentimentNews": 0,
+        "Date": "2019-01-16"
+    },
+    {
+        "Open": 2.94,
+        "High": 2.94,
+        "Low": 2.9,
+        "Close": 2.92,
+        "Two_day_sentiment_tweets": 0.266415,
+        "AverageSentimentNews": -0.1294522727272727,
+        "Date": "2019-01-17"
+    },
+    {
+        "Open": 2.91,
+        "High": 2.935,
+        "Low": 2.9,
+        "Close": 2.92,
+        "Two_day_sentiment_tweets": 0.299595,
+        "AverageSentimentNews": 0.08933333333333333,
+        "Date": "2019-01-18"
+    },
+    {
+        "Open": 2.92,
+        "High": 2.94,
+        "Low": 2.91,
+        "Close": 2.93,
+        "Two_day_sentiment_tweets": 0.213075,
+        "AverageSentimentNews": 0.1806,
+        "Date": "2019-01-21"
+    },
+    {
+        "Open": 2.93,
+        "High": 2.94,
+        "Low": 2.91,
+        "Close": 2.92,
+        "Two_day_sentiment_tweets": 0.13595,
+        "AverageSentimentNews": 0,
+        "Date": "2019-01-22"
+    },
+    {
+        "Open": 2.92,
+        "High": 2.93,
+        "Low": 2.9,
+        "Close": 2.91,
+        "Two_day_sentiment_tweets": 0.050241,
+        "AverageSentimentNews": 0.2916331818181818,
+        "Date": "2019-01-23"
+    },
+    {
+        "Open": 2.93,
+        "High": 2.97,
+        "Low": 2.925,
+        "Close": 2.95,
+        "Two_day_sentiment_tweets": 0.105081,
+        "AverageSentimentNews": 0.2077,
+        "Date": "2019-01-24"
+    },
+    {
+        "Open": 2.95,
+        "High": 2.98,
+        "Low": 2.94,
+        "Close": 2.96,
+        "Two_day_sentiment_tweets": -0.12261,
+        "AverageSentimentNews": 0.08333333333333333,
+        "Date": "2019-01-25"
+    },
+    {
+        "Open": 3,
+        "High": 3.21,
+        "Low": 3,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": -0.0657,
+        "AverageSentimentNews": 0,
+        "Date": "2019-01-29"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.235,
+        "Low": 3.16,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.040431,
+        "AverageSentimentNews": -0.01318333333333332,
+        "Date": "2019-01-30"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.18,
+        "Low": 3.09,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.112975,
+        "AverageSentimentNews": 0,
+        "Date": "2019-01-31"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.12,
+        "Low": 3.06,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.04365,
+        "AverageSentimentNews": -0.07803333333333334,
+        "Date": "2019-02-01"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.17,
+        "Low": 3.06,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.262823,
+        "AverageSentimentNews": 0.227425,
+        "Date": "2019-02-04"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.175,
+        "Low": 3.12,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.262823,
+        "AverageSentimentNews": 0.2230860269360269,
+        "Date": "2019-02-05"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.21,
+        "Low": 3.16,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.388486,
+        "AverageSentimentNews": 0,
+        "Date": "2019-02-06"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.22,
+        "Low": 3.18,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.194243,
+        "AverageSentimentNews": 0.06139761904761903,
+        "Date": "2019-02-07"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.24,
+        "Low": 3.19,
+        "Close": 3.24,
+        "Two_day_sentiment_tweets": 0.092871,
+        "AverageSentimentNews": 0.03409090909090909,
+        "Date": "2019-02-08"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.25,
+        "Low": 3.21,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": -0.0726,
+        "AverageSentimentNews": 0.08337121212121214,
+        "Date": "2019-02-11"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.25,
+        "Low": 3.21,
+        "Close": 3.23,
+        "Two_day_sentiment_tweets": -0.06442,
+        "AverageSentimentNews": 0,
+        "Date": "2019-02-12"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.24,
+        "Low": 3.18,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": -0.0026,
+        "AverageSentimentNews": -0.1042416666666667,
+        "Date": "2019-02-13"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.23,
+        "Low": 3.075,
+        "Close": 3.14,
+        "Two_day_sentiment_tweets": 0.070201,
+        "AverageSentimentNews": -0.17804,
+        "Date": "2019-02-14"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.2,
+        "Low": 3.13,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": 0.016442,
+        "AverageSentimentNews": 0,
+        "Date": "2019-02-15"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.215,
+        "Low": 3.18,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": 0.222967,
+        "AverageSentimentNews": 0.1366,
+        "Date": "2019-02-18"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.25,
+        "Low": 3.215,
+        "Close": 3.25,
+        "Two_day_sentiment_tweets": 0.222967,
+        "AverageSentimentNews": -0.1447375,
+        "Date": "2019-02-19"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.25,
+        "Low": 3.18,
+        "Close": 3.2,
+        "Two_day_sentiment_tweets": -0.04972,
+        "AverageSentimentNews": 0.01704545454545454,
+        "Date": "2019-02-20"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.25,
+        "Low": 3.2,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": 0.049142,
+        "AverageSentimentNews": 0.01286666666666667,
+        "Date": "2019-02-21"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.25,
+        "Low": 3.225,
+        "Close": 3.24,
+        "Two_day_sentiment_tweets": 0.220183,
+        "AverageSentimentNews": 0.1507857142857143,
+        "Date": "2019-02-22"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.235,
+        "Low": 3.19,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": 0.13463,
+        "AverageSentimentNews": 0.06161857142857143,
+        "Date": "2019-02-25"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.185,
+        "Low": 3.15,
+        "Close": 3.17,
+        "Two_day_sentiment_tweets": 0.202885,
+        "AverageSentimentNews": 0.0345875,
+        "Date": "2019-02-26"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.13,
+        "Low": 3.08,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.30525,
+        "AverageSentimentNews": 0.09101999999999999,
+        "Date": "2019-02-27"
+    },
+    {
+        "Open": 3.14,
+        "High": 3.145,
+        "Low": 3.1,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.323921,
+        "AverageSentimentNews": -0.1597875,
+        "Date": "2019-02-28"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.14,
+        "Low": 3.11,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.388338,
+        "AverageSentimentNews": 0.2333833333333333,
+        "Date": "2019-03-01"
+    },
+    {
+        "Open": 3.14,
+        "High": 3.14,
+        "Low": 3.115,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": -0.14518,
+        "AverageSentimentNews": 0.01225916666666667,
+        "Date": "2019-03-04"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.17,
+        "Low": 3.09,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.008713,
+        "AverageSentimentNews": -0.04976666666666666,
+        "Date": "2019-03-05"
+    },
+    {
+        "Open": 3.15,
+        "High": 3.195,
+        "Low": 3.13,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": 0.016663,
+        "AverageSentimentNews": -0.0984625,
+        "Date": "2019-03-06"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.24,
+        "Low": 3.2,
+        "Close": 3.23,
+        "Two_day_sentiment_tweets": -0.11887,
+        "AverageSentimentNews": 0.1339666666666667,
+        "Date": "2019-03-07"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.24,
+        "Low": 3.2,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": 0.105155,
+        "AverageSentimentNews": 0.36067,
+        "Date": "2019-03-08"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.24,
+        "Low": 3.2,
+        "Close": 3.24,
+        "Two_day_sentiment_tweets": -0.20763,
+        "AverageSentimentNews": 0.0404466666666667,
+        "Date": "2019-03-11"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.26,
+        "Low": 3.195,
+        "Close": 3.23,
+        "Two_day_sentiment_tweets": -0.00858,
+        "AverageSentimentNews": 0,
+        "Date": "2019-03-12"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.26,
+        "Low": 3.185,
+        "Close": 3.26,
+        "Two_day_sentiment_tweets": 0.072344,
+        "AverageSentimentNews": 0.09044857142857142,
+        "Date": "2019-03-13"
+    },
+    {
+        "Open": 3.26,
+        "High": 3.27,
+        "Low": 3.24,
+        "Close": 3.26,
+        "Two_day_sentiment_tweets": 0.366259,
+        "AverageSentimentNews": 0.1524071428571429,
+        "Date": "2019-03-14"
+    },
+    {
+        "Open": 3.26,
+        "High": 3.29,
+        "Low": 3.25,
+        "Close": 3.26,
+        "Two_day_sentiment_tweets": 0.044055,
+        "AverageSentimentNews": 0,
+        "Date": "2019-03-15"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.28,
+        "Low": 3.24,
+        "Close": 3.26,
+        "Two_day_sentiment_tweets": 0.072023,
+        "AverageSentimentNews": 0.1124,
+        "Date": "2019-03-18"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.29,
+        "Low": 3.24,
+        "Close": 3.29,
+        "Two_day_sentiment_tweets": 0.017211,
+        "AverageSentimentNews": -0.18575,
+        "Date": "2019-03-19"
+    },
+    {
+        "Open": 3.29,
+        "High": 3.29,
+        "Low": 3.24,
+        "Close": 3.26,
+        "Two_day_sentiment_tweets": 0.010361,
+        "AverageSentimentNews": 0,
+        "Date": "2019-03-20"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.28,
+        "Low": 3.245,
+        "Close": 3.28,
+        "Two_day_sentiment_tweets": 0.112834,
+        "AverageSentimentNews": 0.1490651515151515,
+        "Date": "2019-03-21"
+    },
+    {
+        "Open": 3.28,
+        "High": 3.29,
+        "Low": 3.26,
+        "Close": 3.28,
+        "Two_day_sentiment_tweets": -0.23018,
+        "AverageSentimentNews": -0.002284848484848487,
+        "Date": "2019-03-22"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.3,
+        "Low": 3.25,
+        "Close": 3.3,
+        "Two_day_sentiment_tweets": 0.530184,
+        "AverageSentimentNews": -0.04045,
+        "Date": "2019-03-25"
+    },
+    {
+        "Open": 3.29,
+        "High": 3.31,
+        "Low": 3.29,
+        "Close": 3.31,
+        "Two_day_sentiment_tweets": 0.530184,
+        "AverageSentimentNews": 0.08272727272727272,
+        "Date": "2019-03-26"
+    },
+    {
+        "Open": 3.3,
+        "High": 3.32,
+        "Low": 3.29,
+        "Close": 3.32,
+        "Two_day_sentiment_tweets": 0.235318,
+        "AverageSentimentNews": 0.06363333333333333,
+        "Date": "2019-03-27"
+    },
+    {
+        "Open": 3.31,
+        "High": 3.33,
+        "Low": 3.3,
+        "Close": 3.31,
+        "Two_day_sentiment_tweets": 0.157961,
+        "AverageSentimentNews": -0.10721875,
+        "Date": "2019-03-28"
+    },
+    {
+        "Open": 3.3,
+        "High": 3.32,
+        "Low": 3.3,
+        "Close": 3.32,
+        "Two_day_sentiment_tweets": 0.157961,
+        "AverageSentimentNews": 0.13075,
+        "Date": "2019-03-29"
+    },
+    {
+        "Open": 3.31,
+        "High": 3.32,
+        "Low": 3.28,
+        "Close": 3.3,
+        "Two_day_sentiment_tweets": 0.062229,
+        "AverageSentimentNews": -0.17,
+        "Date": "2019-04-01"
+    },
+    {
+        "Open": 3.31,
+        "High": 3.31,
+        "Low": 3.27,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": 0.102599,
+        "AverageSentimentNews": 0.23835,
+        "Date": "2019-04-02"
+    },
+    {
+        "Open": 3.28,
+        "High": 3.31,
+        "Low": 3.26,
+        "Close": 3.31,
+        "Two_day_sentiment_tweets": 0.092113,
+        "AverageSentimentNews": -0.04509999999999999,
+        "Date": "2019-04-03"
+    },
+    {
+        "Open": 3.3,
+        "High": 3.315,
+        "Low": 3.27,
+        "Close": 3.28,
+        "Two_day_sentiment_tweets": 0.246723,
+        "AverageSentimentNews": 0,
+        "Date": "2019-04-04"
+    },
+    {
+        "Open": 3.28,
+        "High": 3.29,
+        "Low": 3.26,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": 0.283596,
+        "AverageSentimentNews": 0,
+        "Date": "2019-04-05"
+    },
+    {
+        "Open": 3.26,
+        "High": 3.28,
+        "Low": 3.26,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": 0.282191,
+        "AverageSentimentNews": -0.01664757575757576,
+        "Date": "2019-04-08"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.305,
+        "Low": 3.24,
+        "Close": 3.3,
+        "Two_day_sentiment_tweets": 0.149508,
+        "AverageSentimentNews": -0.1300875,
+        "Date": "2019-04-09"
+    },
+    {
+        "Open": 3.29,
+        "High": 3.3,
+        "Low": 3.27,
+        "Close": 3.29,
+        "Two_day_sentiment_tweets": 0.048813,
+        "AverageSentimentNews": -0.02264848484848485,
+        "Date": "2019-04-10"
+    },
+    {
+        "Open": 3.27,
+        "High": 3.32,
+        "Low": 3.27,
+        "Close": 3.31,
+        "Two_day_sentiment_tweets": 0.048813,
+        "AverageSentimentNews": -0.02276666666666667,
+        "Date": "2019-04-11"
+    },
+    {
+        "Open": 3.31,
+        "High": 3.35,
+        "Low": 3.31,
+        "Close": 3.33,
+        "Two_day_sentiment_tweets": 0.082406,
+        "AverageSentimentNews": 0,
+        "Date": "2019-04-12"
+    },
+    {
+        "Open": 3.33,
+        "High": 3.34,
+        "Low": 3.31,
+        "Close": 3.34,
+        "Two_day_sentiment_tweets": 0.009422,
+        "AverageSentimentNews": 0.1170969696969697,
+        "Date": "2019-04-15"
+    },
+    {
+        "Open": 3.33,
+        "High": 3.34,
+        "Low": 3.28,
+        "Close": 3.29,
+        "Two_day_sentiment_tweets": 0.003178,
+        "AverageSentimentNews": -0.1181388888888889,
+        "Date": "2019-04-16"
+    },
+    {
+        "Open": 3.33,
+        "High": 3.38,
+        "Low": 3.33,
+        "Close": 3.36,
+        "Two_day_sentiment_tweets": 0.039334,
+        "AverageSentimentNews": 0,
+        "Date": "2019-04-17"
+    },
+    {
+        "Open": 3.38,
+        "High": 3.41,
+        "Low": 3.37,
+        "Close": 3.41,
+        "Two_day_sentiment_tweets": -0.09368,
+        "AverageSentimentNews": 0.1288566666666667,
+        "Date": "2019-04-18"
+    },
+    {
+        "Open": 3.42,
+        "High": 3.46,
+        "Low": 3.38,
+        "Close": 3.39,
+        "Two_day_sentiment_tweets": -0.04778,
+        "AverageSentimentNews": 0,
+        "Date": "2019-04-23"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.42,
+        "Low": 3.37,
+        "Close": 3.38,
+        "Two_day_sentiment_tweets": -0.16725,
+        "AverageSentimentNews": 0.1169,
+        "Date": "2019-04-24"
+    },
+    {
+        "Open": 3.39,
+        "High": 3.39,
+        "Low": 3.355,
+        "Close": 3.37,
+        "Two_day_sentiment_tweets": 0.065348,
+        "AverageSentimentNews": 0.03764444444444445,
+        "Date": "2019-04-26"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.37,
+        "Low": 3.34,
+        "Close": 3.36,
+        "Two_day_sentiment_tweets": 0.229762,
+        "AverageSentimentNews": 0,
+        "Date": "2019-04-29"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.385,
+        "Low": 3.33,
+        "Close": 3.38,
+        "Two_day_sentiment_tweets": 0.229762,
+        "AverageSentimentNews": 0.0617151515151515,
+        "Date": "2019-04-30"
+    },
+    {
+        "Open": 3.38,
+        "High": 3.4,
+        "Low": 3.36,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": 0.123371,
+        "AverageSentimentNews": 0,
+        "Date": "2019-05-01"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.4,
+        "Low": 3.34,
+        "Close": 3.36,
+        "Two_day_sentiment_tweets": -0.00067,
+        "AverageSentimentNews": 0.1649,
+        "Date": "2019-05-02"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.39,
+        "Low": 3.34,
+        "Close": 3.38,
+        "Two_day_sentiment_tweets": 0.303907,
+        "AverageSentimentNews": -0.06967642857142856,
+        "Date": "2019-05-03"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.37,
+        "Low": 3.32,
+        "Close": 3.36,
+        "Two_day_sentiment_tweets": 0.109005,
+        "AverageSentimentNews": 0,
+        "Date": "2019-05-06"
+    },
+    {
+        "Open": 3.36,
+        "High": 3.395,
+        "Low": 3.35,
+        "Close": 3.36,
+        "Two_day_sentiment_tweets": -0.00481,
+        "AverageSentimentNews": 0.008114285714285685,
+        "Date": "2019-05-07"
+    },
+    {
+        "Open": 3.37,
+        "High": 3.37,
+        "Low": 3.24,
+        "Close": 3.29,
+        "Two_day_sentiment_tweets": 0.08992,
+        "AverageSentimentNews": 0.125,
+        "Date": "2019-05-08"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.39,
+        "Low": 3.345,
+        "Close": 3.38,
+        "Two_day_sentiment_tweets": -0.01373,
+        "AverageSentimentNews": 0.2129704545454545,
+        "Date": "2019-05-09"
+    },
+    {
+        "Open": 3.38,
+        "High": 3.42,
+        "Low": 3.37,
+        "Close": 3.41,
+        "Two_day_sentiment_tweets": 0.002523,
+        "AverageSentimentNews": -0.012975,
+        "Date": "2019-05-10"
+    },
+    {
+        "Open": 3.42,
+        "High": 3.45,
+        "Low": 3.405,
+        "Close": 3.45,
+        "Two_day_sentiment_tweets": 0.133751,
+        "AverageSentimentNews": -0.03415,
+        "Date": "2019-05-13"
+    },
+    {
+        "Open": 3.43,
+        "High": 3.47,
+        "Low": 3.41,
+        "Close": 3.45,
+        "Two_day_sentiment_tweets": 0.150705,
+        "AverageSentimentNews": 0.07945,
+        "Date": "2019-05-14"
+    },
+    {
+        "Open": 3.44,
+        "High": 3.47,
+        "Low": 3.43,
+        "Close": 3.46,
+        "Two_day_sentiment_tweets": 0.251653,
+        "AverageSentimentNews": 0.2173875,
+        "Date": "2019-05-15"
+    },
+    {
+        "Open": 3.47,
+        "High": 3.51,
+        "Low": 3.45,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.336793,
+        "AverageSentimentNews": 0.09903188131313131,
+        "Date": "2019-05-16"
+    },
+    {
+        "Open": 3.53,
+        "High": 3.57,
+        "Low": 3.525,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": 0.352498,
+        "AverageSentimentNews": 0,
+        "Date": "2019-05-17"
+    },
+    {
+        "Open": 3.54,
+        "High": 3.56,
+        "Low": 3.5,
+        "Close": 3.54,
+        "Two_day_sentiment_tweets": 0.34356,
+        "AverageSentimentNews": 0.5175916666666667,
+        "Date": "2019-05-20"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.6,
+        "Low": 3.5,
+        "Close": 3.59,
+        "Two_day_sentiment_tweets": 0.265842,
+        "AverageSentimentNews": 0.06257272727272728,
+        "Date": "2019-05-21"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.59,
+        "Low": 3.56,
+        "Close": 3.58,
+        "Two_day_sentiment_tweets": 0.265842,
+        "AverageSentimentNews": 0.047725,
+        "Date": "2019-05-22"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.62,
+        "Low": 3.575,
+        "Close": 3.6,
+        "Two_day_sentiment_tweets": 0.228579,
+        "AverageSentimentNews": 0,
+        "Date": "2019-05-23"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.62,
+        "Low": 3.57,
+        "Close": 3.62,
+        "Two_day_sentiment_tweets": 0.175964,
+        "AverageSentimentNews": 0.1822928571428571,
+        "Date": "2019-05-24"
+    },
+    {
+        "Open": 3.63,
+        "High": 3.635,
+        "Low": 3.515,
+        "Close": 3.53,
+        "Two_day_sentiment_tweets": 0.228932,
+        "AverageSentimentNews": -0.1807,
+        "Date": "2019-05-27"
+    },
+    {
+        "Open": 3.53,
+        "High": 3.57,
+        "Low": 3.51,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": 0.140511,
+        "AverageSentimentNews": -0.1494233333333333,
+        "Date": "2019-05-28"
+    },
+    {
+        "Open": 3.57,
+        "High": 3.59,
+        "Low": 3.56,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": -0.02897,
+        "AverageSentimentNews": 0.086875,
+        "Date": "2019-05-29"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.65,
+        "Low": 3.57,
+        "Close": 3.63,
+        "Two_day_sentiment_tweets": 0.119313,
+        "AverageSentimentNews": 0.074,
+        "Date": "2019-05-30"
+    },
+    {
+        "Open": 3.65,
+        "High": 3.65,
+        "Low": 3.615,
+        "Close": 3.65,
+        "Two_day_sentiment_tweets": 0.096187,
+        "AverageSentimentNews": 0.05621904761904759,
+        "Date": "2019-05-31"
+    },
+    {
+        "Open": 3.61,
+        "High": 3.645,
+        "Low": 3.575,
+        "Close": 3.59,
+        "Two_day_sentiment_tweets": 0.239114,
+        "AverageSentimentNews": -0.0683,
+        "Date": "2019-06-03"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.66,
+        "Low": 3.595,
+        "Close": 3.66,
+        "Two_day_sentiment_tweets": 0.134604,
+        "AverageSentimentNews": 0,
+        "Date": "2019-06-04"
+    },
+    {
+        "Open": 3.67,
+        "High": 3.675,
+        "Low": 3.62,
+        "Close": 3.65,
+        "Two_day_sentiment_tweets": 0.070983,
+        "AverageSentimentNews": 0,
+        "Date": "2019-06-05"
+    },
+    {
+        "Open": 3.67,
+        "High": 3.7,
+        "Low": 3.65,
+        "Close": 3.69,
+        "Two_day_sentiment_tweets": 0.048021,
+        "AverageSentimentNews": 0,
+        "Date": "2019-06-06"
+    },
+    {
+        "Open": 3.69,
+        "High": 3.73,
+        "Low": 3.685,
+        "Close": 3.72,
+        "Two_day_sentiment_tweets": 0.048021,
+        "AverageSentimentNews": 0,
+        "Date": "2019-06-07"
+    },
+    {
+        "Open": 3.74,
+        "High": 3.77,
+        "Low": 3.73,
+        "Close": 3.75,
+        "Two_day_sentiment_tweets": 0.166375,
+        "AverageSentimentNews": 0.125,
+        "Date": "2019-06-11"
+    },
+    {
+        "Open": 3.77,
+        "High": 3.81,
+        "Low": 3.75,
+        "Close": 3.77,
+        "Two_day_sentiment_tweets": 0.314021,
+        "AverageSentimentNews": 0,
+        "Date": "2019-06-12"
+    },
+    {
+        "Open": 3.79,
+        "High": 3.84,
+        "Low": 3.78,
+        "Close": 3.84,
+        "Two_day_sentiment_tweets": 0.258913,
+        "AverageSentimentNews": 0.004188181818181817,
+        "Date": "2019-06-13"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.88,
+        "Low": 3.84,
+        "Close": 3.87,
+        "Two_day_sentiment_tweets": 0.203336,
+        "AverageSentimentNews": 0.05166666666666667,
+        "Date": "2019-06-14"
+    },
+    {
+        "Open": 3.87,
+        "High": 3.87,
+        "Low": 3.775,
+        "Close": 3.8,
+        "Two_day_sentiment_tweets": -0.12345,
+        "AverageSentimentNews": 0.1259575757575757,
+        "Date": "2019-06-17"
+    },
+    {
+        "Open": 3.79,
+        "High": 3.83,
+        "Low": 3.745,
+        "Close": 3.81,
+        "Two_day_sentiment_tweets": -0.00335,
+        "AverageSentimentNews": 0,
+        "Date": "2019-06-18"
+    },
+    {
+        "Open": 3.83,
+        "High": 3.84,
+        "Low": 3.8,
+        "Close": 3.84,
+        "Two_day_sentiment_tweets": -0.05112,
+        "AverageSentimentNews": 0.148,
+        "Date": "2019-06-19"
+    },
+    {
+        "Open": 3.83,
+        "High": 3.86,
+        "Low": 3.81,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.19684,
+        "AverageSentimentNews": 0.09555000000000001,
+        "Date": "2019-06-20"
+    },
+    {
+        "Open": 3.83,
+        "High": 3.85,
+        "Low": 3.78,
+        "Close": 3.78,
+        "Two_day_sentiment_tweets": -0.18309,
+        "AverageSentimentNews": 0.0386,
+        "Date": "2019-06-21"
+    },
+    {
+        "Open": 3.79,
+        "High": 3.86,
+        "Low": 3.78,
+        "Close": 3.84,
+        "Two_day_sentiment_tweets": 0.178925,
+        "AverageSentimentNews": -0.064975,
+        "Date": "2019-06-24"
+    },
+    {
+        "Open": 3.84,
+        "High": 3.88,
+        "Low": 3.835,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.178925,
+        "AverageSentimentNews": -0.03136181818181818,
+        "Date": "2019-06-25"
+    },
+    {
+        "Open": 3.85,
+        "High": 3.88,
+        "Low": 3.82,
+        "Close": 3.82,
+        "Two_day_sentiment_tweets": 0.16661,
+        "AverageSentimentNews": 0.2109833333333334,
+        "Date": "2019-06-26"
+    },
+    {
+        "Open": 3.8,
+        "High": 3.87,
+        "Low": 3.8,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.115054,
+        "AverageSentimentNews": 0.05496298701298701,
+        "Date": "2019-06-27"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.865,
+        "Low": 3.84,
+        "Close": 3.85,
+        "Two_day_sentiment_tweets": 0.115054,
+        "AverageSentimentNews": 0.123475,
+        "Date": "2019-06-28"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.87,
+        "Low": 3.81,
+        "Close": 3.83,
+        "Two_day_sentiment_tweets": 0.086764,
+        "AverageSentimentNews": 0,
+        "Date": "2019-07-01"
+    },
+    {
+        "Open": 3.82,
+        "High": 3.84,
+        "Low": 3.8,
+        "Close": 3.81,
+        "Two_day_sentiment_tweets": 0.036908,
+        "AverageSentimentNews": -0.2306666666666667,
+        "Date": "2019-07-02"
+    },
+    {
+        "Open": 3.8,
+        "High": 3.88,
+        "Low": 3.8,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.064501,
+        "AverageSentimentNews": 0.6351749999999999,
+        "Date": "2019-07-03"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.885,
+        "Low": 3.835,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": -0.11644,
+        "AverageSentimentNews": 0.03387222222222223,
+        "Date": "2019-07-04"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.89,
+        "Low": 3.85,
+        "Close": 3.88,
+        "Two_day_sentiment_tweets": -0.07945,
+        "AverageSentimentNews": 0,
+        "Date": "2019-07-05"
+    },
+    {
+        "Open": 3.87,
+        "High": 3.88,
+        "Low": 3.83,
+        "Close": 3.85,
+        "Two_day_sentiment_tweets": -0.02114,
+        "AverageSentimentNews": 0.3592,
+        "Date": "2019-07-08"
+    },
+    {
+        "Open": 3.84,
+        "High": 3.9,
+        "Low": 3.84,
+        "Close": 3.88,
+        "Two_day_sentiment_tweets": 0.106241,
+        "AverageSentimentNews": -0.01118333333333333,
+        "Date": "2019-07-09"
+    },
+    {
+        "Open": 3.89,
+        "High": 3.91,
+        "Low": 3.865,
+        "Close": 3.87,
+        "Two_day_sentiment_tweets": 0.073951,
+        "AverageSentimentNews": 0.08531666666666667,
+        "Date": "2019-07-10"
+    },
+    {
+        "Open": 3.87,
+        "High": 3.91,
+        "Low": 3.87,
+        "Close": 3.9,
+        "Two_day_sentiment_tweets": 0.024033,
+        "AverageSentimentNews": -0.09049699074074073,
+        "Date": "2019-07-11"
+    },
+    {
+        "Open": 3.89,
+        "High": 3.9,
+        "Low": 3.88,
+        "Close": 3.89,
+        "Two_day_sentiment_tweets": -0.02097,
+        "AverageSentimentNews": -0.08976666666666666,
+        "Date": "2019-07-12"
+    },
+    {
+        "Open": 3.87,
+        "High": 3.88,
+        "Low": 3.79,
+        "Close": 3.81,
+        "Two_day_sentiment_tweets": 0.077343,
+        "AverageSentimentNews": 0,
+        "Date": "2019-07-15"
+    },
+    {
+        "Open": 3.81,
+        "High": 3.82,
+        "Low": 3.735,
+        "Close": 3.74,
+        "Two_day_sentiment_tweets": 0.256223,
+        "AverageSentimentNews": -0.098925,
+        "Date": "2019-07-16"
+    },
+    {
+        "Open": 3.72,
+        "High": 3.81,
+        "Low": 3.71,
+        "Close": 3.79,
+        "Two_day_sentiment_tweets": 0.306514,
+        "AverageSentimentNews": 0.36335,
+        "Date": "2019-07-17"
+    },
+    {
+        "Open": 3.76,
+        "High": 3.81,
+        "Low": 3.75,
+        "Close": 3.81,
+        "Two_day_sentiment_tweets": 0.486788,
+        "AverageSentimentNews": 0,
+        "Date": "2019-07-18"
+    },
+    {
+        "Open": 3.79,
+        "High": 3.845,
+        "Low": 3.78,
+        "Close": 3.84,
+        "Two_day_sentiment_tweets": 0.631044,
+        "AverageSentimentNews": 0,
+        "Date": "2019-07-19"
+    },
+    {
+        "Open": 3.84,
+        "High": 3.87,
+        "Low": 3.78,
+        "Close": 3.8,
+        "Two_day_sentiment_tweets": 0.334814,
+        "AverageSentimentNews": 0.1627666666666666,
+        "Date": "2019-07-22"
+    },
+    {
+        "Open": 3.81,
+        "High": 3.845,
+        "Low": 3.785,
+        "Close": 3.81,
+        "Two_day_sentiment_tweets": 0.243167,
+        "AverageSentimentNews": 0.0875,
+        "Date": "2019-07-23"
+    },
+    {
+        "Open": 3.83,
+        "High": 3.865,
+        "Low": 3.81,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.256974,
+        "AverageSentimentNews": -0.20095,
+        "Date": "2019-07-24"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.88,
+        "Low": 3.84,
+        "Close": 3.88,
+        "Two_day_sentiment_tweets": 0.256974,
+        "AverageSentimentNews": -0.16455,
+        "Date": "2019-07-25"
+    },
+    {
+        "Open": 3.87,
+        "High": 3.89,
+        "Low": 3.84,
+        "Close": 3.84,
+        "Two_day_sentiment_tweets": 0.065581,
+        "AverageSentimentNews": 0.125,
+        "Date": "2019-07-26"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.91,
+        "Low": 3.84,
+        "Close": 3.9,
+        "Two_day_sentiment_tweets": -0.22467,
+        "AverageSentimentNews": -0.11854,
+        "Date": "2019-07-29"
+    },
+    {
+        "Open": 3.92,
+        "High": 4,
+        "Low": 3.915,
+        "Close": 3.95,
+        "Two_day_sentiment_tweets": -0.1442,
+        "AverageSentimentNews": -0.1366,
+        "Date": "2019-07-30"
+    },
+    {
+        "Open": 3.96,
+        "High": 3.99,
+        "Low": 3.945,
+        "Close": 3.97,
+        "Two_day_sentiment_tweets": -0.09734,
+        "AverageSentimentNews": -0.10395,
+        "Date": "2019-07-31"
+    },
+    {
+        "Open": 3.97,
+        "High": 3.975,
+        "Low": 3.93,
+        "Close": 3.95,
+        "Two_day_sentiment_tweets": -0.24928,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-01"
+    },
+    {
+        "Open": 3.95,
+        "High": 3.99,
+        "Low": 3.94,
+        "Close": 3.98,
+        "Two_day_sentiment_tweets": -0.21927,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-02"
+    },
+    {
+        "Open": 3.97,
+        "High": 3.98,
+        "Low": 3.92,
+        "Close": 3.935,
+        "Two_day_sentiment_tweets": -0.11369,
+        "AverageSentimentNews": -0.1391,
+        "Date": "2019-08-05"
+    },
+    {
+        "Open": 3.79,
+        "High": 3.87,
+        "Low": 3.78,
+        "Close": 3.83,
+        "Two_day_sentiment_tweets": 0.012815,
+        "AverageSentimentNews": 0.125,
+        "Date": "2019-08-06"
+    },
+    {
+        "Open": 3.84,
+        "High": 3.91,
+        "Low": 3.84,
+        "Close": 3.9,
+        "Two_day_sentiment_tweets": 0.012815,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-07"
+    },
+    {
+        "Open": 3.9,
+        "High": 3.99,
+        "Low": 3.885,
+        "Close": 3.99,
+        "Two_day_sentiment_tweets": 0.171745,
+        "AverageSentimentNews": 0.2376204545454546,
+        "Date": "2019-08-08"
+    },
+    {
+        "Open": 3.98,
+        "High": 4.01,
+        "Low": 3.95,
+        "Close": 3.98,
+        "Two_day_sentiment_tweets": 0.171745,
+        "AverageSentimentNews": 0.119175,
+        "Date": "2019-08-09"
+    },
+    {
+        "Open": 3.95,
+        "High": 3.96,
+        "Low": 3.9,
+        "Close": 3.93,
+        "Two_day_sentiment_tweets": 0.075486,
+        "AverageSentimentNews": 0.4246762987012987,
+        "Date": "2019-08-12"
+    },
+    {
+        "Open": 3.92,
+        "High": 3.94,
+        "Low": 3.9,
+        "Close": 3.93,
+        "Two_day_sentiment_tweets": 0.106521,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-13"
+    },
+    {
+        "Open": 3.93,
+        "High": 3.94,
+        "Low": 3.88,
+        "Close": 3.94,
+        "Two_day_sentiment_tweets": -0.05524,
+        "AverageSentimentNews": 0.09401666666666668,
+        "Date": "2019-08-14"
+    },
+    {
+        "Open": 3.88,
+        "High": 3.91,
+        "Low": 3.85,
+        "Close": 3.87,
+        "Two_day_sentiment_tweets": -0.00313,
+        "AverageSentimentNews": 0.17772,
+        "Date": "2019-08-15"
+    },
+    {
+        "Open": 3.85,
+        "High": 3.86,
+        "Low": 3.65,
+        "Close": 3.77,
+        "Two_day_sentiment_tweets": 0.012743,
+        "AverageSentimentNews": 0.1379969696969697,
+        "Date": "2019-08-16"
+    },
+    {
+        "Open": 3.77,
+        "High": 3.77,
+        "Low": 3.73,
+        "Close": 3.77,
+        "Two_day_sentiment_tweets": 0.047553,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-19"
+    },
+    {
+        "Open": 3.79,
+        "High": 3.8,
+        "Low": 3.76,
+        "Close": 3.78,
+        "Two_day_sentiment_tweets": 0.187512,
+        "AverageSentimentNews": 0.02898928571428569,
+        "Date": "2019-08-20"
+    },
+    {
+        "Open": 3.76,
+        "High": 3.8,
+        "Low": 3.66,
+        "Close": 3.67,
+        "Two_day_sentiment_tweets": 0.172887,
+        "AverageSentimentNews": -0.074,
+        "Date": "2019-08-21"
+    },
+    {
+        "Open": 3.67,
+        "High": 3.71,
+        "Low": 3.65,
+        "Close": 3.69,
+        "Two_day_sentiment_tweets": 0.136613,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-22"
+    },
+    {
+        "Open": 3.68,
+        "High": 3.755,
+        "Low": 3.67,
+        "Close": 3.74,
+        "Two_day_sentiment_tweets": 0.376086,
+        "AverageSentimentNews": 0.07802272727272724,
+        "Date": "2019-08-23"
+    },
+    {
+        "Open": 3.67,
+        "High": 3.71,
+        "Low": 3.66,
+        "Close": 3.7,
+        "Two_day_sentiment_tweets": 0.151846,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-26"
+    },
+    {
+        "Open": 3.7,
+        "High": 3.745,
+        "Low": 3.685,
+        "Close": 3.74,
+        "Two_day_sentiment_tweets": 0.181611,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-27"
+    },
+    {
+        "Open": 3.66,
+        "High": 3.685,
+        "Low": 3.63,
+        "Close": 3.68,
+        "Two_day_sentiment_tweets": -0.04253,
+        "AverageSentimentNews": -0.2491,
+        "Date": "2019-08-28"
+    },
+    {
+        "Open": 3.66,
+        "High": 3.67,
+        "Low": 3.61,
+        "Close": 3.66,
+        "Two_day_sentiment_tweets": -0.04253,
+        "AverageSentimentNews": 0,
+        "Date": "2019-08-29"
+    },
+    {
+        "Open": 3.67,
+        "High": 3.72,
+        "Low": 3.64,
+        "Close": 3.72,
+        "Two_day_sentiment_tweets": -0.21592,
+        "AverageSentimentNews": 0.144275,
+        "Date": "2019-08-30"
+    },
+    {
+        "Open": 3.65,
+        "High": 3.69,
+        "Low": 3.62,
+        "Close": 3.64,
+        "Two_day_sentiment_tweets": -0.01599,
+        "AverageSentimentNews": 0.2331833333333334,
+        "Date": "2019-09-02"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.63,
+        "Low": 3.6,
+        "Close": 3.61,
+        "Two_day_sentiment_tweets": 0.111716,
+        "AverageSentimentNews": 0.160575,
+        "Date": "2019-09-03"
+    },
+    {
+        "Open": 3.57,
+        "High": 3.59,
+        "Low": 3.555,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": 0.111716,
+        "AverageSentimentNews": 0.1453166666666666,
+        "Date": "2019-09-04"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.63,
+        "Low": 3.56,
+        "Close": 3.59,
+        "Two_day_sentiment_tweets": 0.215901,
+        "AverageSentimentNews": 0.03409090909090909,
+        "Date": "2019-09-05"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.64,
+        "Low": 3.57,
+        "Close": 3.61,
+        "Two_day_sentiment_tweets": 0.107951,
+        "AverageSentimentNews": 0.2331909090909091,
+        "Date": "2019-09-06"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.62,
+        "Low": 3.58,
+        "Close": 3.6,
+        "Two_day_sentiment_tweets": 0,
+        "AverageSentimentNews": 0.4092249999999999,
+        "Date": "2019-09-09"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.59,
+        "Low": 3.51,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": 0,
+        "AverageSentimentNews": 0.187575,
+        "Date": "2019-09-10"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.58,
+        "Low": 3.53,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": 0,
+        "AverageSentimentNews": 0.0625,
+        "Date": "2019-09-11"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.63,
+        "Low": 3.565,
+        "Close": 3.59,
+        "Two_day_sentiment_tweets": -0.00451,
+        "AverageSentimentNews": -0.002207727272727267,
+        "Date": "2019-09-12"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.62,
+        "Low": 3.59,
+        "Close": 3.61,
+        "Two_day_sentiment_tweets": -0.00451,
+        "AverageSentimentNews": 0.1489083333333333,
+        "Date": "2019-09-13"
+    },
+    {
+        "Open": 3.57,
+        "High": 3.59,
+        "Low": 3.54,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": 0.106994,
+        "AverageSentimentNews": -0.1610583333333333,
+        "Date": "2019-09-16"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.58,
+        "Low": 3.52,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": 0.081111,
+        "AverageSentimentNews": 0.132475,
+        "Date": "2019-09-17"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.6,
+        "Low": 3.55,
+        "Close": 3.55,
+        "Two_day_sentiment_tweets": 0.081111,
+        "AverageSentimentNews": 0.277675,
+        "Date": "2019-09-18"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.66,
+        "Low": 3.585,
+        "Close": 3.64,
+        "Two_day_sentiment_tweets": 0.217996,
+        "AverageSentimentNews": -0.105375,
+        "Date": "2019-09-19"
+    },
+    {
+        "Open": 3.67,
+        "High": 3.69,
+        "Low": 3.64,
+        "Close": 3.65,
+        "Two_day_sentiment_tweets": 0.328287,
+        "AverageSentimentNews": 0.04166666666666666,
+        "Date": "2019-09-20"
+    },
+    {
+        "Open": 3.66,
+        "High": 3.69,
+        "Low": 3.635,
+        "Close": 3.65,
+        "Two_day_sentiment_tweets": 0.22078,
+        "AverageSentimentNews": 0.1294969696969697,
+        "Date": "2019-09-23"
+    },
+    {
+        "Open": 3.65,
+        "High": 3.65,
+        "Low": 3.585,
+        "Close": 3.61,
+        "Two_day_sentiment_tweets": 0.168572,
+        "AverageSentimentNews": 0,
+        "Date": "2019-09-24"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.61,
+        "Low": 3.54,
+        "Close": 3.54,
+        "Two_day_sentiment_tweets": 0.232462,
+        "AverageSentimentNews": 0.1641666666666667,
+        "Date": "2019-09-25"
+    },
+    {
+        "Open": 3.53,
+        "High": 3.54,
+        "Low": 3.46,
+        "Close": 3.46,
+        "Two_day_sentiment_tweets": 0.40126,
+        "AverageSentimentNews": 0,
+        "Date": "2019-09-26"
+    },
+    {
+        "Open": 3.45,
+        "High": 3.52,
+        "Low": 3.45,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.236434,
+        "AverageSentimentNews": 0.2294,
+        "Date": "2019-09-27"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.53,
+        "Low": 3.49,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.147756,
+        "AverageSentimentNews": 0.2099704545454545,
+        "Date": "2019-09-30"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.56,
+        "Low": 3.48,
+        "Close": 3.54,
+        "Two_day_sentiment_tweets": 0.098805,
+        "AverageSentimentNews": 0.06698333333333333,
+        "Date": "2019-10-01"
+    },
+    {
+        "Open": 3.52,
+        "High": 3.535,
+        "Low": 3.495,
+        "Close": 3.52,
+        "Two_day_sentiment_tweets": -0.00647,
+        "AverageSentimentNews": 0.3035333333333333,
+        "Date": "2019-10-02"
+    },
+    {
+        "Open": 3.45,
+        "High": 3.455,
+        "Low": 3.4,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": -0.07263,
+        "AverageSentimentNews": 0.09545,
+        "Date": "2019-10-03"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.45,
+        "Low": 3.4,
+        "Close": 3.42,
+        "Two_day_sentiment_tweets": 0.046967,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-04"
+    },
+    {
+        "Open": 3.44,
+        "High": 3.47,
+        "Low": 3.43,
+        "Close": 3.47,
+        "Two_day_sentiment_tweets": 0.135352,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-07"
+    },
+    {
+        "Open": 3.48,
+        "High": 3.48,
+        "Low": 3.44,
+        "Close": 3.46,
+        "Two_day_sentiment_tweets": 0.003115,
+        "AverageSentimentNews": -0.1490375,
+        "Date": "2019-10-08"
+    },
+    {
+        "Open": 3.45,
+        "High": 3.5,
+        "Low": 3.435,
+        "Close": 3.49,
+        "Two_day_sentiment_tweets": 0.146848,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-09"
+    },
+    {
+        "Open": 3.49,
+        "High": 3.52,
+        "Low": 3.47,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.045149,
+        "AverageSentimentNews": 0.63765,
+        "Date": "2019-10-10"
+    },
+    {
+        "Open": 3.53,
+        "High": 3.57,
+        "Low": 3.52,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": 0.012787,
+        "AverageSentimentNews": 0.00852272727272727,
+        "Date": "2019-10-11"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.6,
+        "Low": 3.5,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.067859,
+        "AverageSentimentNews": -0.67595,
+        "Date": "2019-10-14"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.56,
+        "Low": 3.49,
+        "Close": 3.54,
+        "Two_day_sentiment_tweets": 0.03827,
+        "AverageSentimentNews": -0.01937222222222223,
+        "Date": "2019-10-15"
+    },
+    {
+        "Open": 3.57,
+        "High": 3.61,
+        "Low": 3.55,
+        "Close": 3.61,
+        "Two_day_sentiment_tweets": 0.127328,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-16"
+    },
+    {
+        "Open": 3.61,
+        "High": 3.61,
+        "Low": 3.56,
+        "Close": 3.59,
+        "Two_day_sentiment_tweets": -0.03109,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-17"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.625,
+        "Low": 3.58,
+        "Close": 3.58,
+        "Two_day_sentiment_tweets": 0.071864,
+        "AverageSentimentNews": 0.06384999999999999,
+        "Date": "2019-10-18"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.61,
+        "Low": 3.55,
+        "Close": 3.6,
+        "Two_day_sentiment_tweets": -0.277,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-21"
+    },
+    {
+        "Open": 3.62,
+        "High": 3.63,
+        "Low": 3.57,
+        "Close": 3.61,
+        "Two_day_sentiment_tweets": -0.277,
+        "AverageSentimentNews": 0.07955,
+        "Date": "2019-10-22"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.6,
+        "Low": 3.55,
+        "Close": 3.57,
+        "Two_day_sentiment_tweets": -0.15206,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-23"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.595,
+        "Low": 3.53,
+        "Close": 3.54,
+        "Two_day_sentiment_tweets": -0.12097,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-24"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.58,
+        "Low": 3.54,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": -0.03305,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-25"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.59,
+        "Low": 3.55,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": -0.01924,
+        "AverageSentimentNews": 0.03409090909090909,
+        "Date": "2019-10-28"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.57,
+        "Low": 3.52,
+        "Close": 3.55,
+        "Two_day_sentiment_tweets": -0.00537,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-29"
+    },
+    {
+        "Open": 3.53,
+        "High": 3.555,
+        "Low": 3.48,
+        "Close": 3.49,
+        "Two_day_sentiment_tweets": 0.039139,
+        "AverageSentimentNews": -0.09538409090909092,
+        "Date": "2019-10-30"
+    },
+    {
+        "Open": 3.48,
+        "High": 3.505,
+        "Low": 3.46,
+        "Close": 3.49,
+        "Two_day_sentiment_tweets": 0.209201,
+        "AverageSentimentNews": 0,
+        "Date": "2019-10-31"
+    },
+    {
+        "Open": 3.48,
+        "High": 3.545,
+        "Low": 3.475,
+        "Close": 3.52,
+        "Two_day_sentiment_tweets": 0.209201,
+        "AverageSentimentNews": 0,
+        "Date": "2019-11-01"
+    },
+    {
+        "Open": 3.54,
+        "High": 3.545,
+        "Low": 3.5,
+        "Close": 3.52,
+        "Two_day_sentiment_tweets": 0.327392,
+        "AverageSentimentNews": -0.08333333333333333,
+        "Date": "2019-11-04"
+    },
+    {
+        "Open": 3.52,
+        "High": 3.525,
+        "Low": 3.485,
+        "Close": 3.5,
+        "Two_day_sentiment_tweets": 0.143747,
+        "AverageSentimentNews": 0.409275,
+        "Date": "2019-11-05"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.51,
+        "Low": 3.46,
+        "Close": 3.47,
+        "Two_day_sentiment_tweets": 0.173781,
+        "AverageSentimentNews": -0.08976666666666666,
+        "Date": "2019-11-06"
+    },
+    {
+        "Open": 3.46,
+        "High": 3.51,
+        "Low": 3.46,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.211534,
+        "AverageSentimentNews": 0.1453166666666666,
+        "Date": "2019-11-07"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.51,
+        "Low": 3.48,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.211534,
+        "AverageSentimentNews": 0,
+        "Date": "2019-11-08"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.53,
+        "Low": 3.5,
+        "Close": 3.53,
+        "Two_day_sentiment_tweets": 0.112726,
+        "AverageSentimentNews": -0.03515,
+        "Date": "2019-11-11"
+    },
+    {
+        "Open": 3.53,
+        "High": 3.54,
+        "Low": 3.51,
+        "Close": 3.53,
+        "Two_day_sentiment_tweets": 0.213677,
+        "AverageSentimentNews": 0.2724409090909091,
+        "Date": "2019-11-12"
+    },
+    {
+        "Open": 3.52,
+        "High": 3.54,
+        "Low": 3.48,
+        "Close": 3.49,
+        "Two_day_sentiment_tweets": 0.000117,
+        "AverageSentimentNews": 0,
+        "Date": "2019-11-13"
+    },
+    {
+        "Open": 3.49,
+        "High": 3.58,
+        "Low": 3.49,
+        "Close": 3.58,
+        "Two_day_sentiment_tweets": 0.401908,
+        "AverageSentimentNews": 0.100475,
+        "Date": "2019-11-14"
+    },
+    {
+        "Open": 3.57,
+        "High": 3.6,
+        "Low": 3.56,
+        "Close": 3.6,
+        "Two_day_sentiment_tweets": 0.364454,
+        "AverageSentimentNews": 0,
+        "Date": "2019-11-15"
+    },
+    {
+        "Open": 3.59,
+        "High": 3.59,
+        "Low": 3.52,
+        "Close": 3.55,
+        "Two_day_sentiment_tweets": 0.033813,
+        "AverageSentimentNews": 0.145075,
+        "Date": "2019-11-18"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.6,
+        "Low": 3.52,
+        "Close": 3.6,
+        "Two_day_sentiment_tweets": 0.033813,
+        "AverageSentimentNews": 0.09026111111111111,
+        "Date": "2019-11-19"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.61,
+        "Low": 3.55,
+        "Close": 3.58,
+        "Two_day_sentiment_tweets": 0.043331,
+        "AverageSentimentNews": -0.07955,
+        "Date": "2019-11-20"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.58,
+        "Low": 3.53,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": 0.370203,
+        "AverageSentimentNews": 0.1053625,
+        "Date": "2019-11-21"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.6,
+        "Low": 3.56,
+        "Close": 3.56,
+        "Two_day_sentiment_tweets": 0.134897,
+        "AverageSentimentNews": 0.05705,
+        "Date": "2019-11-22"
+    },
+    {
+        "Open": 3.57,
+        "High": 3.64,
+        "Low": 3.56,
+        "Close": 3.63,
+        "Two_day_sentiment_tweets": 0.158418,
+        "AverageSentimentNews": 0,
+        "Date": "2019-11-25"
+    },
+    {
+        "Open": 3.63,
+        "High": 3.65,
+        "Low": 3.61,
+        "Close": 3.61,
+        "Two_day_sentiment_tweets": 0.18267,
+        "AverageSentimentNews": 0,
+        "Date": "2019-11-26"
+    },
+    {
+        "Open": 3.6,
+        "High": 3.73,
+        "Low": 3.6,
+        "Close": 3.71,
+        "Two_day_sentiment_tweets": 0.334885,
+        "AverageSentimentNews": 0.03524166666666666,
+        "Date": "2019-11-27"
+    },
+    {
+        "Open": 3.78,
+        "High": 3.87,
+        "Low": 3.76,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.261242,
+        "AverageSentimentNews": 0.09135833333333335,
+        "Date": "2019-11-28"
+    },
+    {
+        "Open": 3.88,
+        "High": 3.89,
+        "Low": 3.81,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.087747,
+        "AverageSentimentNews": -0.04006969696969697,
+        "Date": "2019-11-29"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.89,
+        "Low": 3.84,
+        "Close": 3.85,
+        "Two_day_sentiment_tweets": -0.02799,
+        "AverageSentimentNews": 0.2089772727272727,
+        "Date": "2019-12-02"
+    },
+    {
+        "Open": 3.8,
+        "High": 3.81,
+        "Low": 3.71,
+        "Close": 3.73,
+        "Two_day_sentiment_tweets": 0.036098,
+        "AverageSentimentNews": -0.02681912878787879,
+        "Date": "2019-12-03"
+    },
+    {
+        "Open": 3.66,
+        "High": 3.71,
+        "Low": 3.64,
+        "Close": 3.65,
+        "Two_day_sentiment_tweets": -0.05377,
+        "AverageSentimentNews": 0.1752531746031746,
+        "Date": "2019-12-04"
+    },
+    {
+        "Open": 3.74,
+        "High": 3.76,
+        "Low": 3.68,
+        "Close": 3.69,
+        "Two_day_sentiment_tweets": -0.05377,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-05"
+    },
+    {
+        "Open": 3.7,
+        "High": 3.72,
+        "Low": 3.68,
+        "Close": 3.7,
+        "Two_day_sentiment_tweets": -0.05377,
+        "AverageSentimentNews": -0.20185,
+        "Date": "2019-12-06"
+    },
+    {
+        "Open": 3.72,
+        "High": 3.76,
+        "Low": 3.71,
+        "Close": 3.72,
+        "Two_day_sentiment_tweets": 0.141419,
+        "AverageSentimentNews": -0.005549999999999999,
+        "Date": "2019-12-09"
+    },
+    {
+        "Open": 3.7,
+        "High": 3.735,
+        "Low": 3.69,
+        "Close": 3.71,
+        "Two_day_sentiment_tweets": 0.055464,
+        "AverageSentimentNews": -0.0007500000000000004,
+        "Date": "2019-12-10"
+    },
+    {
+        "Open": 3.74,
+        "High": 3.77,
+        "Low": 3.725,
+        "Close": 3.77,
+        "Two_day_sentiment_tweets": 0.241382,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-11"
+    },
+    {
+        "Open": 3.76,
+        "High": 3.76,
+        "Low": 3.68,
+        "Close": 3.69,
+        "Two_day_sentiment_tweets": 0.241353,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-12"
+    },
+    {
+        "Open": 3.71,
+        "High": 3.72,
+        "Low": 3.655,
+        "Close": 3.67,
+        "Two_day_sentiment_tweets": 0.208677,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-13"
+    },
+    {
+        "Open": 3.7,
+        "High": 3.74,
+        "Low": 3.67,
+        "Close": 3.72,
+        "Two_day_sentiment_tweets": 0.331061,
+        "AverageSentimentNews": 0.2591416666666667,
+        "Date": "2019-12-16"
+    },
+    {
+        "Open": 3.72,
+        "High": 3.74,
+        "Low": 3.7,
+        "Close": 3.71,
+        "Two_day_sentiment_tweets": 0.163765,
+        "AverageSentimentNews": 0.296075,
+        "Date": "2019-12-17"
+    },
+    {
+        "Open": 3.71,
+        "High": 3.73,
+        "Low": 3.68,
+        "Close": 3.72,
+        "Two_day_sentiment_tweets": 0.3127,
+        "AverageSentimentNews": 0.2507416666666667,
+        "Date": "2019-12-18"
+    },
+    {
+        "Open": 3.72,
+        "High": 3.725,
+        "Low": 3.67,
+        "Close": 3.69,
+        "Two_day_sentiment_tweets": 0.021862,
+        "AverageSentimentNews": 0.3828,
+        "Date": "2019-12-19"
+    },
+    {
+        "Open": 3.68,
+        "High": 3.715,
+        "Low": 3.67,
+        "Close": 3.68,
+        "Two_day_sentiment_tweets": 0.087248,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-20"
+    },
+    {
+        "Open": 3.68,
+        "High": 3.69,
+        "Low": 3.67,
+        "Close": 3.67,
+        "Two_day_sentiment_tweets": 0.056926,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-23"
+    },
+    {
+        "Open": 3.66,
+        "High": 3.685,
+        "Low": 3.64,
+        "Close": 3.65,
+        "Two_day_sentiment_tweets": 0.189096,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-24"
+    },
+    {
+        "Open": 3.64,
+        "High": 3.67,
+        "Low": 3.63,
+        "Close": 3.66,
+        "Two_day_sentiment_tweets": 0.035173,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-27"
+    },
+    {
+        "Open": 3.66,
+        "High": 3.67,
+        "Low": 3.64,
+        "Close": 3.64,
+        "Two_day_sentiment_tweets": -0.01445,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-30"
+    },
+    {
+        "Open": 3.62,
+        "High": 3.64,
+        "Low": 3.54,
+        "Close": 3.54,
+        "Two_day_sentiment_tweets": -0.03995,
+        "AverageSentimentNews": 0,
+        "Date": "2019-12-31"
+    },
+    {
+        "Open": 3.56,
+        "High": 3.61,
+        "Low": 3.55,
+        "Close": 3.58,
+        "Two_day_sentiment_tweets": 0.234559,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-02"
+    },
+    {
+        "Open": 3.61,
+        "High": 3.62,
+        "Low": 3.58,
+        "Close": 3.59,
+        "Two_day_sentiment_tweets": 0.132758,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-03"
+    },
+    {
+        "Open": 3.58,
+        "High": 3.635,
+        "Low": 3.55,
+        "Close": 3.62,
+        "Two_day_sentiment_tweets": 0.076011,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-06"
+    },
+    {
+        "Open": 3.65,
+        "High": 3.71,
+        "Low": 3.63,
+        "Close": 3.71,
+        "Two_day_sentiment_tweets": 0.208569,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-07"
+    },
+    {
+        "Open": 3.71,
+        "High": 3.765,
+        "Low": 3.68,
+        "Close": 3.74,
+        "Two_day_sentiment_tweets": 0.208569,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-08"
+    },
+    {
+        "Open": 3.78,
+        "High": 3.8,
+        "Low": 3.77,
+        "Close": 3.8,
+        "Two_day_sentiment_tweets": 0.169821,
+        "AverageSentimentNews": -0.06875,
+        "Date": "2020-01-09"
+    },
+    {
+        "Open": 3.8,
+        "High": 3.86,
+        "Low": 3.78,
+        "Close": 3.85,
+        "Two_day_sentiment_tweets": 0.392288,
+        "AverageSentimentNews": 0.2,
+        "Date": "2020-01-10"
+    },
+    {
+        "Open": 3.82,
+        "High": 3.85,
+        "Low": 3.81,
+        "Close": 3.84,
+        "Two_day_sentiment_tweets": 0.359795,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-13"
+    },
+    {
+        "Open": 3.83,
+        "High": 3.84,
+        "Low": 3.795,
+        "Close": 3.83,
+        "Two_day_sentiment_tweets": 0.243383,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-14"
+    },
+    {
+        "Open": 3.84,
+        "High": 3.84,
+        "Low": 3.8,
+        "Close": 3.84,
+        "Two_day_sentiment_tweets": 0.190421,
+        "AverageSentimentNews": 0.02016388888888889,
+        "Date": "2020-01-15"
+    },
+    {
+        "Open": 3.87,
+        "High": 3.89,
+        "Low": 3.84,
+        "Close": 3.88,
+        "Two_day_sentiment_tweets": 0.177767,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-16"
+    },
+    {
+        "Open": 3.88,
+        "High": 3.91,
+        "Low": 3.85,
+        "Close": 3.9,
+        "Two_day_sentiment_tweets": -0.06434,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-17"
+    },
+    {
+        "Open": 3.9,
+        "High": 3.9,
+        "Low": 3.87,
+        "Close": 3.87,
+        "Two_day_sentiment_tweets": -0.00782,
+        "AverageSentimentNews": 0,
+        "Date": "2020-01-20"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.87,
+        "Low": 3.84,
+        "Close": 3.87,
+        "Two_day_sentiment_tweets": -0.05433,
+        "AverageSentimentNews": -0.20095,
+        "Date": "2020-01-21"
+    },
+    {
+        "Open": 3.88,
+        "High": 3.9,
+        "Low": 3.865,
+        "Close": 3.89,
+        "Two_day_sentiment_tweets": 0.169618,
+        "AverageSentimentNews": -0.05,
+        "Date": "2020-01-22"
+    },
+    {
+        "Open": 3.89,
+        "High": 3.9,
+        "Low": 3.86,
+        "Close": 3.9,
+        "Two_day_sentiment_tweets": 0.228526,
+        "AverageSentimentNews": 0.2177900462962963,
+        "Date": "2020-01-23"
+    },
+    {
+        "Open": 3.91,
+        "High": 3.91,
+        "Low": 3.88,
+        "Close": 3.88,
+        "Two_day_sentiment_tweets": 0.051281,
+        "AverageSentimentNews": 0.1877875,
+        "Date": "2020-01-24"
+    },
+    {
+        "Open": 3.82,
+        "High": 3.9,
+        "Low": 3.81,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.006166,
+        "AverageSentimentNews": -0.0903,
+        "Date": "2020-01-28"
+    },
+    {
+        "Open": 3.89,
+        "High": 3.91,
+        "Low": 3.85,
+        "Close": 3.85,
+        "Two_day_sentiment_tweets": -0.09693,
+        "AverageSentimentNews": 0.226025,
+        "Date": "2020-01-29"
+    },
+    {
+        "Open": 3.85,
+        "High": 3.87,
+        "Low": 3.83,
+        "Close": 3.86,
+        "Two_day_sentiment_tweets": 0.164215,
+        "AverageSentimentNews": -0.1490625,
+        "Date": "2020-01-30"
+    },
+    {
+        "Open": 3.88,
+        "High": 3.9,
+        "Low": 3.84,
+        "Close": 3.84,
+        "Two_day_sentiment_tweets": 0.223413,
+        "AverageSentimentNews": 0.01641111111111112,
+        "Date": "2020-01-31"
+    },
+    {
+        "Open": 3.79,
+        "High": 3.85,
+        "Low": 3.78,
+        "Close": 3.83,
+        "Two_day_sentiment_tweets": 0.036157,
+        "AverageSentimentNews": 0,
+        "Date": "2020-02-03"
+    },
+    {
+        "Open": 3.82,
+        "High": 3.85,
+        "Low": 3.81,
+        "Close": 3.82,
+        "Two_day_sentiment_tweets": 0.016823,
+        "AverageSentimentNews": -0.02777777777777778,
+        "Date": "2020-02-04"
+    },
+    {
+        "Open": 3.84,
+        "High": 3.87,
+        "Low": 3.79,
+        "Close": 3.8,
+        "Two_day_sentiment_tweets": 0.084423,
+        "AverageSentimentNews": -0.074,
+        "Date": "2020-02-05"
+    },
+    {
+        "Open": 3.81,
+        "High": 3.86,
+        "Low": 3.805,
+        "Close": 3.83,
+        "Two_day_sentiment_tweets": 0.145062,
+        "AverageSentimentNews": -0.05409861111111113,
+        "Date": "2020-02-06"
+    },
+    {
+        "Open": 3.83,
+        "High": 3.85,
+        "Low": 3.76,
+        "Close": 3.79,
+        "Two_day_sentiment_tweets": 0.188344,
+        "AverageSentimentNews": -0.2033666666666667,
+        "Date": "2020-02-07"
+    },
+    {
+        "Open": 3.79,
+        "High": 3.845,
+        "Low": 3.78,
+        "Close": 3.82,
+        "Two_day_sentiment_tweets": 0.0254,
+        "AverageSentimentNews": 0,
+        "Date": "2020-02-10"
+    },
+    {
+        "Open": 3.86,
+        "High": 3.915,
+        "Low": 3.85,
+        "Close": 3.89,
+        "Two_day_sentiment_tweets": 0.11715,
+        "AverageSentimentNews": 0,
+        "Date": "2020-02-11"
+    },
+    {
+        "Open": 3.87,
+        "High": 3.885,
+        "Low": 3.81,
+        "Close": 3.82,
+        "Two_day_sentiment_tweets": 0.285781,
+        "AverageSentimentNews": 0.063275,
+        "Date": "2020-02-12"
+    },
+    {
+        "Open": 3.84,
+        "High": 3.94,
+        "Low": 3.7,
+        "Close": 3.76,
+        "Two_day_sentiment_tweets": 0.279696,
+        "AverageSentimentNews": 0.07928333333333334,
+        "Date": "2020-02-13"
+    },
+    {
+        "Open": 3.78,
+        "High": 3.8,
+        "Low": 3.765,
+        "Close": 3.77,
+        "Two_day_sentiment_tweets": 0.362623,
+        "AverageSentimentNews": 0,
+        "Date": "2020-02-14"
+    },
+    {
+        "Open": 3.77,
+        "High": 3.77,
+        "Low": 3.71,
+        "Close": 3.72,
+        "Two_day_sentiment_tweets": 0.044771,
+        "AverageSentimentNews": 0.07629999999999999,
+        "Date": "2020-02-17"
+    },
+    {
+        "Open": 3.72,
+        "High": 3.745,
+        "Low": 3.71,
+        "Close": 3.73,
+        "Two_day_sentiment_tweets": -0.00875,
+        "AverageSentimentNews": 0.253325,
+        "Date": "2020-02-18"
+    },
+    {
+        "Open": 3.73,
+        "High": 3.75,
+        "Low": 3.71,
+        "Close": 3.75,
+        "Two_day_sentiment_tweets": -0.05866,
+        "AverageSentimentNews": 0.3391281818181818,
+        "Date": "2020-02-19"
+    },
+    {
+        "Open": 3.76,
+        "High": 3.81,
+        "Low": 3.74,
+        "Close": 3.79,
+        "Two_day_sentiment_tweets": 0.020481,
+        "AverageSentimentNews": 0.1358804040404041,
+        "Date": "2020-02-20"
+    },
+    {
+        "Open": 3.8,
+        "High": 3.8,
+        "Low": 3.73,
+        "Close": 3.74,
+        "Two_day_sentiment_tweets": 0.010241,
+        "AverageSentimentNews": 0.08041666666666666,
+        "Date": "2020-02-21"
+    },
+    {
+        "Open": 3.72,
+        "High": 3.74,
+        "Low": 3.69,
+        "Close": 3.71,
+        "Two_day_sentiment_tweets": 0.009094,
+        "AverageSentimentNews": 0.17,
+        "Date": "2020-02-24"
+    },
+    {
+        "Open": 3.65,
+        "High": 3.65,
+        "Low": 3.58,
+        "Close": 3.6,
+        "Two_day_sentiment_tweets": 0.045002,
+        "AverageSentimentNews": -0.050575,
+        "Date": "2020-02-25"
+    },
+    {
+        "Open": 3.46,
+        "High": 3.52,
+        "Low": 3.43,
+        "Close": 3.5,
+        "Two_day_sentiment_tweets": 0.084221,
+        "AverageSentimentNews": -0.286375,
+        "Date": "2020-02-26"
+    },
+    {
+        "Open": 3.46,
+        "High": 3.485,
+        "Low": 3.42,
+        "Close": 3.44,
+        "Two_day_sentiment_tweets": 0.104099,
+        "AverageSentimentNews": 0.09580999999999999,
+        "Date": "2020-02-27"
+    },
+    {
+        "Open": 3.37,
+        "High": 3.49,
+        "Low": 3.31,
+        "Close": 3.43,
+        "Two_day_sentiment_tweets": 0.142845,
+        "AverageSentimentNews": 0.341675,
+        "Date": "2020-02-28"
+    },
+    {
+        "Open": 3.36,
+        "High": 3.465,
+        "Low": 3.35,
+        "Close": 3.43,
+        "Two_day_sentiment_tweets": -0.03103,
+        "AverageSentimentNews": 0,
+        "Date": "2020-03-02"
+    },
+    {
+        "Open": 3.48,
+        "High": 3.545,
+        "Low": 3.47,
+        "Close": 3.5,
+        "Two_day_sentiment_tweets": 0.096205,
+        "AverageSentimentNews": -0.2294,
+        "Date": "2020-03-03"
+    },
+    {
+        "Open": 3.47,
+        "High": 3.5,
+        "Low": 3.46,
+        "Close": 3.48,
+        "Two_day_sentiment_tweets": 0.300339,
+        "AverageSentimentNews": 0,
+        "Date": "2020-03-04"
+    },
+    {
+        "Open": 3.54,
+        "High": 3.59,
+        "Low": 3.53,
+        "Close": 3.55,
+        "Two_day_sentiment_tweets": 0.317203,
+        "AverageSentimentNews": 0.06821714015151517,
+        "Date": "2020-03-05"
+    },
+    {
+        "Open": 3.49,
+        "High": 3.57,
+        "Low": 3.48,
+        "Close": 3.55,
+        "Two_day_sentiment_tweets": 0.294497,
+        "AverageSentimentNews": 0.512225,
+        "Date": "2020-03-06"
+    },
+    {
+        "Open": 3.47,
+        "High": 3.53,
+        "Low": 3.42,
+        "Close": 3.48,
+        "Two_day_sentiment_tweets": 0.123556,
+        "AverageSentimentNews": 0.07356363636363636,
+        "Date": "2020-03-09"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.5,
+        "Low": 3.34,
+        "Close": 3.5,
+        "Two_day_sentiment_tweets": 0.171352,
+        "AverageSentimentNews": 0.06693125,
+        "Date": "2020-03-10"
+    },
+    {
+        "Open": 3.46,
+        "High": 3.48,
+        "Low": 3.4,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": 0.132251,
+        "AverageSentimentNews": -0.1371166666666667,
+        "Date": "2020-03-11"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.37,
+        "Low": 3.11,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.029725,
+        "AverageSentimentNews": 0.0193,
+        "Date": "2020-03-12"
+    },
+    {
+        "Open": 2.95,
+        "High": 3.33,
+        "Low": 2.9,
+        "Close": 3.32,
+        "Two_day_sentiment_tweets": 0.008096,
+        "AverageSentimentNews": -0.07024999999999999,
+        "Date": "2020-03-13"
+    },
+    {
+        "Open": 3.05,
+        "High": 3.46,
+        "Low": 3.05,
+        "Close": 3.38,
+        "Two_day_sentiment_tweets": 0.038502,
+        "AverageSentimentNews": 0.08510000000000001,
+        "Date": "2020-03-16"
+    },
+    {
+        "Open": 3.32,
+        "High": 3.57,
+        "Low": 3.3,
+        "Close": 3.47,
+        "Two_day_sentiment_tweets": 0.061285,
+        "AverageSentimentNews": 0.06166666666666667,
+        "Date": "2020-03-17"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.44,
+        "Low": 3.14,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": 0.025066,
+        "AverageSentimentNews": 0,
+        "Date": "2020-03-18"
+    },
+    {
+        "Open": 3.23,
+        "High": 3.3,
+        "Low": 3.16,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": 0.093741,
+        "AverageSentimentNews": 0.056575,
+        "Date": "2020-03-19"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.3,
+        "Low": 3.065,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": 0.146613,
+        "AverageSentimentNews": -0.26075,
+        "Date": "2020-03-20"
+    },
+    {
+        "Open": 2.91,
+        "High": 3.17,
+        "Low": 2.87,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.109963,
+        "AverageSentimentNews": 0,
+        "Date": "2020-03-23"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.16,
+        "Low": 3.05,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.069435,
+        "AverageSentimentNews": -0.12185,
+        "Date": "2020-03-24"
+    },
+    {
+        "Open": 3.24,
+        "High": 3.24,
+        "Low": 3.07,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.04529,
+        "AverageSentimentNews": 0.03543499999999999,
+        "Date": "2020-03-25"
+    },
+    {
+        "Open": 3.16,
+        "High": 3.22,
+        "Low": 3.1,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.089498,
+        "AverageSentimentNews": 0.2294,
+        "Date": "2020-03-26"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.24,
+        "Low": 3.04,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.088843,
+        "AverageSentimentNews": 0,
+        "Date": "2020-03-27"
+    },
+    {
+        "Open": 3.01,
+        "High": 3.25,
+        "Low": 3.01,
+        "Close": 3.25,
+        "Two_day_sentiment_tweets": 0.092508,
+        "AverageSentimentNews": 0,
+        "Date": "2020-03-30"
+    },
+    {
+        "Open": 3.26,
+        "High": 3.3,
+        "Low": 3.03,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": 0.082216,
+        "AverageSentimentNews": 0.0575627525252525,
+        "Date": "2020-03-31"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.2,
+        "Low": 3.115,
+        "Close": 3.2,
+        "Two_day_sentiment_tweets": 0.115434,
+        "AverageSentimentNews": 0,
+        "Date": "2020-04-01"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.2,
+        "Low": 3.07,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.020929,
+        "AverageSentimentNews": -0.05599999999999999,
+        "Date": "2020-04-02"
+    },
+    {
+        "Open": 3.16,
+        "High": 3.19,
+        "Low": 3.07,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.11185,
+        "AverageSentimentNews": 0,
+        "Date": "2020-04-03"
+    },
+    {
+        "Open": 3.11,
+        "High": 3.2,
+        "Low": 3.11,
+        "Close": 3.2,
+        "Two_day_sentiment_tweets": -0.0133,
+        "AverageSentimentNews": 0.07646666666666667,
+        "Date": "2020-04-06"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.25,
+        "Low": 3.1,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.035425,
+        "AverageSentimentNews": 0.04899999999999999,
+        "Date": "2020-04-07"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.17,
+        "Low": 3.08,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": 0.224605,
+        "AverageSentimentNews": 0.03577,
+        "Date": "2020-04-08"
+    },
+    {
+        "Open": 3.14,
+        "High": 3.16,
+        "Low": 3.09,
+        "Close": 3.14,
+        "Two_day_sentiment_tweets": -0.0316,
+        "AverageSentimentNews": 0,
+        "Date": "2020-04-09"
+    },
+    {
+        "Open": 3.13,
+        "High": 3.16,
+        "Low": 3.11,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.11367,
+        "AverageSentimentNews": 0.064,
+        "Date": "2020-04-14"
+    },
+    {
+        "Open": 3.16,
+        "High": 3.17,
+        "Low": 3.11,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.116839,
+        "AverageSentimentNews": 0.064,
+        "Date": "2020-04-15"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.15,
+        "Low": 3.08,
+        "Close": 3.15,
+        "Two_day_sentiment_tweets": -0.13421,
+        "AverageSentimentNews": 0,
+        "Date": "2020-04-16"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.19,
+        "Low": 3.15,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": -0.10535,
+        "AverageSentimentNews": 0,
+        "Date": "2020-04-17"
+    },
+    {
+        "Open": 3.14,
+        "High": 3.17,
+        "Low": 3.09,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.031438,
+        "AverageSentimentNews": 0,
+        "Date": "2020-04-20"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.1,
+        "Low": 3.03,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.056226,
+        "AverageSentimentNews": -0.04545454545454546,
+        "Date": "2020-04-21"
+    },
+    {
+        "Open": 3.02,
+        "High": 3.05,
+        "Low": 3.01,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": 0.074498,
+        "AverageSentimentNews": 0,
+        "Date": "2020-04-22"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.07,
+        "Low": 3.01,
+        "Close": 3.02,
+        "Two_day_sentiment_tweets": 0.048037,
+        "AverageSentimentNews": 0.3260999999999999,
+        "Date": "2020-04-23"
+    },
+    {
+        "Open": 3.02,
+        "High": 3.07,
+        "Low": 3.02,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": 0.023841,
+        "AverageSentimentNews": 0.348,
+        "Date": "2020-04-24"
+    },
+    {
+        "Open": 3.05,
+        "High": 3.09,
+        "Low": 3.03,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": -0.0074,
+        "AverageSentimentNews": 0.7763249999999999,
+        "Date": "2020-04-27"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.11,
+        "Low": 3.05,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": -0.01537,
+        "AverageSentimentNews": -0.074,
+        "Date": "2020-04-28"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.08,
+        "Low": 3.03,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": -0.22474,
+        "AverageSentimentNews": 0.05,
+        "Date": "2020-04-29"
+    },
+    {
+        "Open": 3.07,
+        "High": 3.08,
+        "Low": 3.04,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": 0.109959,
+        "AverageSentimentNews": 0,
+        "Date": "2020-04-30"
+    },
+    {
+        "Open": 3.04,
+        "High": 3.05,
+        "Low": 2.99,
+        "Close": 2.99,
+        "Two_day_sentiment_tweets": 0.140965,
+        "AverageSentimentNews": 0.2806,
+        "Date": "2020-05-01"
+    },
+    {
+        "Open": 2.98,
+        "High": 3.09,
+        "Low": 2.965,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.14195,
+        "AverageSentimentNews": 0,
+        "Date": "2020-05-04"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.105,
+        "Low": 3.05,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.16587,
+        "AverageSentimentNews": 0,
+        "Date": "2020-05-05"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.095,
+        "Low": 3.05,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": 0.221417,
+        "AverageSentimentNews": 0.1089787157287157,
+        "Date": "2020-05-06"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.09,
+        "Low": 3.04,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": 0.167283,
+        "AverageSentimentNews": 0.1585638888888889,
+        "Date": "2020-05-07"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.08,
+        "Low": 3.03,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": 0.291802,
+        "AverageSentimentNews": 0.2813875,
+        "Date": "2020-05-08"
+    },
+    {
+        "Open": 3.04,
+        "High": 3.09,
+        "Low": 3.02,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": 0.104061,
+        "AverageSentimentNews": 0,
+        "Date": "2020-05-11"
+    },
+    {
+        "Open": 3.07,
+        "High": 3.105,
+        "Low": 3.05,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.100056,
+        "AverageSentimentNews": 0.01711666666666667,
+        "Date": "2020-05-12"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.13,
+        "Low": 3.06,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.072711,
+        "AverageSentimentNews": 0.1326666666666667,
+        "Date": "2020-05-13"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.14,
+        "Low": 3.08,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.072711,
+        "AverageSentimentNews": -0.1251,
+        "Date": "2020-05-14"
+    },
+    {
+        "Open": 3.14,
+        "High": 3.17,
+        "Low": 3.12,
+        "Close": 3.17,
+        "Two_day_sentiment_tweets": -0.04233,
+        "AverageSentimentNews": -0.20095,
+        "Date": "2020-05-15"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.19,
+        "Low": 3.11,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.163875,
+        "AverageSentimentNews": -0.006066666666666665,
+        "Date": "2020-05-18"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.18,
+        "Low": 3.11,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.045587,
+        "AverageSentimentNews": 0.0996625,
+        "Date": "2020-05-19"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.11,
+        "Low": 3.08,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": -0.00551,
+        "AverageSentimentNews": 0,
+        "Date": "2020-05-20"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.125,
+        "Low": 3.08,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.086531,
+        "AverageSentimentNews": -0.1300541666666666,
+        "Date": "2020-05-21"
+    },
+    {
+        "Open": 3.09,
+        "High": 3.1,
+        "Low": 3.05,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": 0.236061,
+        "AverageSentimentNews": 0.08625,
+        "Date": "2020-05-22"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.12,
+        "Low": 3.09,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": -0.12589,
+        "AverageSentimentNews": 0.1936694444444444,
+        "Date": "2020-05-25"
+    },
+    {
+        "Open": 3.14,
+        "High": 3.24,
+        "Low": 3.12,
+        "Close": 3.23,
+        "Two_day_sentiment_tweets": -0.05665,
+        "AverageSentimentNews": 0,
+        "Date": "2020-05-26"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.22,
+        "Low": 3.15,
+        "Close": 3.17,
+        "Two_day_sentiment_tweets": 0.001008,
+        "AverageSentimentNews": 0,
+        "Date": "2020-05-27"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.27,
+        "Low": 3.17,
+        "Close": 3.24,
+        "Two_day_sentiment_tweets": 0.062629,
+        "AverageSentimentNews": 0,
+        "Date": "2020-05-28"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.3,
+        "Low": 3.21,
+        "Close": 3.24,
+        "Two_day_sentiment_tweets": 0.076452,
+        "AverageSentimentNews": 0,
+        "Date": "2020-05-29"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.25,
+        "Low": 3.2,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": 0.034201,
+        "AverageSentimentNews": 0,
+        "Date": "2020-06-01"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.25,
+        "Low": 3.205,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": -0.00863,
+        "AverageSentimentNews": -0.05002500000000001,
+        "Date": "2020-06-02"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.27,
+        "Low": 3.23,
+        "Close": 3.25,
+        "Two_day_sentiment_tweets": 0.091133,
+        "AverageSentimentNews": 0.009425000000000003,
+        "Date": "2020-06-03"
+    },
+    {
+        "Open": 3.24,
+        "High": 3.28,
+        "Low": 3.23,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": 0.091133,
+        "AverageSentimentNews": 0.07646666666666667,
+        "Date": "2020-06-04"
+    },
+    {
+        "Open": 3.25,
+        "High": 3.26,
+        "Low": 3.21,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": 0.189573,
+        "AverageSentimentNews": -0.1099848484848485,
+        "Date": "2020-06-05"
+    },
+    {
+        "Open": 3.27,
+        "High": 3.27,
+        "Low": 3.23,
+        "Close": 3.24,
+        "Two_day_sentiment_tweets": -0.21985,
+        "AverageSentimentNews": 0.22745,
+        "Date": "2020-06-09"
+    },
+    {
+        "Open": 3.26,
+        "High": 3.29,
+        "Low": 3.25,
+        "Close": 3.27,
+        "Two_day_sentiment_tweets": -0.03182,
+        "AverageSentimentNews": 0.4454928571428571,
+        "Date": "2020-06-10"
+    },
+    {
+        "Open": 3.24,
+        "High": 3.27,
+        "Low": 3.195,
+        "Close": 3.22,
+        "Two_day_sentiment_tweets": -0.03182,
+        "AverageSentimentNews": 0.03693181818181817,
+        "Date": "2020-06-11"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.21,
+        "Low": 3.16,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.087713,
+        "AverageSentimentNews": -0.005549999999999999,
+        "Date": "2020-06-12"
+    },
+    {
+        "Open": 3.15,
+        "High": 3.17,
+        "Low": 3.11,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": -0.30155,
+        "AverageSentimentNews": -0.07024999999999999,
+        "Date": "2020-06-15"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.24,
+        "Low": 3.17,
+        "Close": 3.21,
+        "Two_day_sentiment_tweets": -0.20529,
+        "AverageSentimentNews": 0,
+        "Date": "2020-06-16"
+    },
+    {
+        "Open": 3.24,
+        "High": 3.25,
+        "Low": 3.19,
+        "Close": 3.23,
+        "Two_day_sentiment_tweets": 0.116144,
+        "AverageSentimentNews": 0.36345,
+        "Date": "2020-06-17"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.23,
+        "Low": 3.16,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": -0.09236,
+        "AverageSentimentNews": 0.3405166666666666,
+        "Date": "2020-06-18"
+    },
+    {
+        "Open": 3.22,
+        "High": 3.23,
+        "Low": 3.19,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.025632,
+        "AverageSentimentNews": 0.1298875,
+        "Date": "2020-06-19"
+    },
+    {
+        "Open": 3.18,
+        "High": 3.19,
+        "Low": 3.17,
+        "Close": 3.19,
+        "Two_day_sentiment_tweets": 0.040816,
+        "AverageSentimentNews": 0,
+        "Date": "2020-06-22"
+    },
+    {
+        "Open": 3.21,
+        "High": 3.21,
+        "Low": 3.16,
+        "Close": 3.17,
+        "Two_day_sentiment_tweets": 0.208569,
+        "AverageSentimentNews": -0.03415,
+        "Date": "2020-06-23"
+    },
+    {
+        "Open": 3.19,
+        "High": 3.2,
+        "Low": 3.16,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.085347,
+        "AverageSentimentNews": 0.1436033333333333,
+        "Date": "2020-06-24"
+    },
+    {
+        "Open": 3.14,
+        "High": 3.16,
+        "Low": 3.11,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.15498,
+        "AverageSentimentNews": 0.2391055555555555,
+        "Date": "2020-06-25"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.15,
+        "Low": 3.11,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.237059,
+        "AverageSentimentNews": 0.3553000000000001,
+        "Date": "2020-06-26"
+    },
+    {
+        "Open": 3.12,
+        "High": 3.15,
+        "Low": 3.11,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.044641,
+        "AverageSentimentNews": 0.0873138888888889,
+        "Date": "2020-06-29"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.17,
+        "Low": 3.13,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.074413,
+        "AverageSentimentNews": -0.007049999999999998,
+        "Date": "2020-06-30"
+    },
+    {
+        "Open": 3.17,
+        "High": 3.18,
+        "Low": 3.14,
+        "Close": 3.18,
+        "Two_day_sentiment_tweets": -0.23861,
+        "AverageSentimentNews": 0.1646333333333333,
+        "Date": "2020-07-01"
+    },
+    {
+        "Open": 3.2,
+        "High": 3.24,
+        "Low": 3.19,
+        "Close": 3.23,
+        "Two_day_sentiment_tweets": 0.039755,
+        "AverageSentimentNews": 0.05685714285714286,
+        "Date": "2020-07-02"
+    },
+    {
+        "Open": 3.26,
+        "High": 3.37,
+        "Low": 3.26,
+        "Close": 3.36,
+        "Two_day_sentiment_tweets": -0.13651,
+        "AverageSentimentNews": 0,
+        "Date": "2020-07-03"
+    },
+    {
+        "Open": 3.39,
+        "High": 3.42,
+        "Low": 3.36,
+        "Close": 3.39,
+        "Two_day_sentiment_tweets": -0.04111,
+        "AverageSentimentNews": -0.09308636363636365,
+        "Date": "2020-07-06"
+    },
+    {
+        "Open": 3.44,
+        "High": 3.44,
+        "Low": 3.36,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": 0.087661,
+        "AverageSentimentNews": 0.074,
+        "Date": "2020-07-07"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.47,
+        "Low": 3.39,
+        "Close": 3.42,
+        "Two_day_sentiment_tweets": 0.106941,
+        "AverageSentimentNews": 0,
+        "Date": "2020-07-08"
+    },
+    {
+        "Open": 3.48,
+        "High": 3.52,
+        "Low": 3.44,
+        "Close": 3.51,
+        "Two_day_sentiment_tweets": 0.092892,
+        "AverageSentimentNews": -0.06312840909090908,
+        "Date": "2020-07-09"
+    },
+    {
+        "Open": 3.52,
+        "High": 3.535,
+        "Low": 3.47,
+        "Close": 3.5,
+        "Two_day_sentiment_tweets": -0.00693,
+        "AverageSentimentNews": 0.3149426136363637,
+        "Date": "2020-07-10"
+    },
+    {
+        "Open": 3.52,
+        "High": 3.52,
+        "Low": 3.445,
+        "Close": 3.48,
+        "Two_day_sentiment_tweets": -0.21413,
+        "AverageSentimentNews": 0,
+        "Date": "2020-07-13"
+    },
+    {
+        "Open": 3.47,
+        "High": 3.49,
+        "Low": 3.44,
+        "Close": 3.47,
+        "Two_day_sentiment_tweets": -0.06512,
+        "AverageSentimentNews": -0.0388888888888889,
+        "Date": "2020-07-14"
+    },
+    {
+        "Open": 3.47,
+        "High": 3.495,
+        "Low": 3.43,
+        "Close": 3.47,
+        "Two_day_sentiment_tweets": -0.00053,
+        "AverageSentimentNews": 0.06666666666666667,
+        "Date": "2020-07-15"
+    },
+    {
+        "Open": 3.5,
+        "High": 3.5,
+        "Low": 3.445,
+        "Close": 3.46,
+        "Two_day_sentiment_tweets": 0.271029,
+        "AverageSentimentNews": 0.02777777777777778,
+        "Date": "2020-07-16"
+    },
+    {
+        "Open": 3.46,
+        "High": 3.49,
+        "Low": 3.42,
+        "Close": 3.46,
+        "Two_day_sentiment_tweets": 0.119841,
+        "AverageSentimentNews": 0.1475081818181818,
+        "Date": "2020-07-17"
+    },
+    {
+        "Open": 3.44,
+        "High": 3.45,
+        "Low": 3.39,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": 0.051479,
+        "AverageSentimentNews": 0.07674924242424241,
+        "Date": "2020-07-20"
+    },
+    {
+        "Open": 3.43,
+        "High": 3.44,
+        "Low": 3.35,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": -0.1442,
+        "AverageSentimentNews": 0,
+        "Date": "2020-07-21"
+    },
+    {
+        "Open": 3.41,
+        "High": 3.44,
+        "Low": 3.38,
+        "Close": 3.39,
+        "Two_day_sentiment_tweets": 0.048894,
+        "AverageSentimentNews": 0.01704545454545454,
+        "Date": "2020-07-22"
+    },
+    {
+        "Open": 3.36,
+        "High": 3.395,
+        "Low": 3.34,
+        "Close": 3.35,
+        "Two_day_sentiment_tweets": 0.17023,
+        "AverageSentimentNews": 0.2193466666666667,
+        "Date": "2020-07-23"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.36,
+        "Low": 3.32,
+        "Close": 3.33,
+        "Two_day_sentiment_tweets": 0.138145,
+        "AverageSentimentNews": 0.1348083333333333,
+        "Date": "2020-07-24"
+    },
+    {
+        "Open": 3.32,
+        "High": 3.37,
+        "Low": 3.32,
+        "Close": 3.36,
+        "Two_day_sentiment_tweets": -0.0033,
+        "AverageSentimentNews": 0,
+        "Date": "2020-07-27"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.42,
+        "Low": 3.36,
+        "Close": 3.37,
+        "Two_day_sentiment_tweets": 0.07634,
+        "AverageSentimentNews": 0.01,
+        "Date": "2020-07-28"
+    },
+    {
+        "Open": 3.36,
+        "High": 3.395,
+        "Low": 3.355,
+        "Close": 3.36,
+        "Two_day_sentiment_tweets": -0.06227,
+        "AverageSentimentNews": 0.1123166666666667,
+        "Date": "2020-07-29"
+    },
+    {
+        "Open": 3.38,
+        "High": 3.41,
+        "Low": 3.36,
+        "Close": 3.38,
+        "Two_day_sentiment_tweets": -0.34273,
+        "AverageSentimentNews": 0,
+        "Date": "2020-07-30"
+    },
+    {
+        "Open": 3.36,
+        "High": 3.38,
+        "Low": 3.32,
+        "Close": 3.35,
+        "Two_day_sentiment_tweets": -0.08309,
+        "AverageSentimentNews": 0,
+        "Date": "2020-07-31"
+    },
+    {
+        "Open": 3.35,
+        "High": 3.41,
+        "Low": 3.325,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": 0.156803,
+        "AverageSentimentNews": -0.00651875,
+        "Date": "2020-08-03"
+    },
+    {
+        "Open": 3.44,
+        "High": 3.49,
+        "Low": 3.44,
+        "Close": 3.48,
+        "Two_day_sentiment_tweets": 0.131059,
+        "AverageSentimentNews": -0.1251833333333333,
+        "Date": "2020-08-04"
+    },
+    {
+        "Open": 3.46,
+        "High": 3.47,
+        "Low": 3.38,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": 0.207261,
+        "AverageSentimentNews": 0.02878125,
+        "Date": "2020-08-05"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.43,
+        "Low": 3.38,
+        "Close": 3.39,
+        "Two_day_sentiment_tweets": 0.130512,
+        "AverageSentimentNews": 0.2409,
+        "Date": "2020-08-06"
+    },
+    {
+        "Open": 3.38,
+        "High": 3.4,
+        "Low": 3.36,
+        "Close": 3.37,
+        "Two_day_sentiment_tweets": 0.142926,
+        "AverageSentimentNews": 0,
+        "Date": "2020-08-07"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.41,
+        "Low": 3.36,
+        "Close": 3.39,
+        "Two_day_sentiment_tweets": 0.104982,
+        "AverageSentimentNews": 0,
+        "Date": "2020-08-10"
+    },
+    {
+        "Open": 3.4,
+        "High": 3.43,
+        "Low": 3.38,
+        "Close": 3.4,
+        "Two_day_sentiment_tweets": 0.169827,
+        "AverageSentimentNews": 0.08140000000000001,
+        "Date": "2020-08-11"
+    },
+    {
+        "Open": 3.42,
+        "High": 3.43,
+        "Low": 3.38,
+        "Close": 3.39,
+        "Two_day_sentiment_tweets": 0.123637,
+        "AverageSentimentNews": 0.04051666666666667,
+        "Date": "2020-08-12"
+    },
+    {
+        "Open": 3.29,
+        "High": 3.29,
+        "Low": 3.11,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.131035,
+        "AverageSentimentNews": 0.02363928571428572,
+        "Date": "2020-08-13"
+    },
+    {
+        "Open": 3.1,
+        "High": 3.13,
+        "Low": 3.04,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": -0.0983,
+        "AverageSentimentNews": 0.2336125,
+        "Date": "2020-08-14"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.09,
+        "Low": 3.05,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": 0.061997,
+        "AverageSentimentNews": 0.04874772727272727,
+        "Date": "2020-08-17"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.08,
+        "Low": 3.03,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": 0.136668,
+        "AverageSentimentNews": 0.07550277777777778,
+        "Date": "2020-08-18"
+    },
+    {
+        "Open": 3.07,
+        "High": 3.12,
+        "Low": 3.07,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": -0.08658,
+        "AverageSentimentNews": 0,
+        "Date": "2020-08-19"
+    },
+    {
+        "Open": 3.07,
+        "High": 3.08,
+        "Low": 3.02,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": 0.04625,
+        "AverageSentimentNews": 0.344825,
+        "Date": "2020-08-20"
+    },
+    {
+        "Open": 3.04,
+        "High": 3.07,
+        "Low": 3.03,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": 0.178049,
+        "AverageSentimentNews": 0,
+        "Date": "2020-08-21"
+    },
+    {
+        "Open": 3.06,
+        "High": 3.085,
+        "Low": 3.05,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": 0.181265,
+        "AverageSentimentNews": -0.02769761904761905,
+        "Date": "2020-08-24"
+    },
+    {
+        "Open": 3.08,
+        "High": 3.08,
+        "Low": 3.05,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": 0.039542,
+        "AverageSentimentNews": 0,
+        "Date": "2020-08-25"
+    },
+    {
+        "Open": 2.97,
+        "High": 2.99,
+        "Low": 2.955,
+        "Close": 2.96,
+        "Two_day_sentiment_tweets": 0.06124,
+        "AverageSentimentNews": 0.07681944444444444,
+        "Date": "2020-08-26"
+    },
+    {
+        "Open": 2.98,
+        "High": 2.985,
+        "Low": 2.95,
+        "Close": 2.95,
+        "Two_day_sentiment_tweets": 0.05127,
+        "AverageSentimentNews": -0.03130000000000001,
+        "Date": "2020-08-27"
+    },
+    {
+        "Open": 2.94,
+        "High": 2.95,
+        "Low": 2.9,
+        "Close": 2.9,
+        "Two_day_sentiment_tweets": 0.095347,
+        "AverageSentimentNews": 0.07211022727272728,
+        "Date": "2020-08-28"
+    },
+    {
+        "Open": 2.9,
+        "High": 2.92,
+        "Low": 2.88,
+        "Close": 2.89,
+        "Two_day_sentiment_tweets": 0.253755,
+        "AverageSentimentNews": 0,
+        "Date": "2020-08-31"
+    },
+    {
+        "Open": 2.88,
+        "High": 2.885,
+        "Low": 2.83,
+        "Close": 2.83,
+        "Two_day_sentiment_tweets": 0.253755,
+        "AverageSentimentNews": 0,
+        "Date": "2020-09-01"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.93,
+        "Low": 2.85,
+        "Close": 2.9,
+        "Two_day_sentiment_tweets": 0.254931,
+        "AverageSentimentNews": 0.085,
+        "Date": "2020-09-02"
+    },
+    {
+        "Open": 2.93,
+        "High": 2.94,
+        "Low": 2.89,
+        "Close": 2.9,
+        "Two_day_sentiment_tweets": 0.1263,
+        "AverageSentimentNews": 0,
+        "Date": "2020-09-03"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.87,
+        "Low": 2.83,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": -0.01891,
+        "AverageSentimentNews": 0,
+        "Date": "2020-09-04"
+    },
+    {
+        "Open": 2.84,
+        "High": 2.9,
+        "Low": 2.81,
+        "Close": 2.88,
+        "Two_day_sentiment_tweets": -0.07213,
+        "AverageSentimentNews": 0,
+        "Date": "2020-09-07"
+    },
+    {
+        "Open": 2.9,
+        "High": 2.93,
+        "Low": 2.89,
+        "Close": 2.92,
+        "Two_day_sentiment_tweets": -0.0413,
+        "AverageSentimentNews": 0.23245,
+        "Date": "2020-09-08"
+    },
+    {
+        "Open": 2.88,
+        "High": 2.88,
+        "Low": 2.84,
+        "Close": 2.86,
+        "Two_day_sentiment_tweets": -0.08951,
+        "AverageSentimentNews": -0.1806,
+        "Date": "2020-09-09"
+    },
+    {
+        "Open": 2.9,
+        "High": 2.9,
+        "Low": 2.855,
+        "Close": 2.88,
+        "Two_day_sentiment_tweets": -0.09138,
+        "AverageSentimentNews": 0.047725,
+        "Date": "2020-09-10"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.87,
+        "Low": 2.84,
+        "Close": 2.85,
+        "Two_day_sentiment_tweets": -0.06521,
+        "AverageSentimentNews": 0.03409090909090909,
+        "Date": "2020-09-11"
+    },
+    {
+        "Open": 2.87,
+        "High": 2.88,
+        "Low": 2.85,
+        "Close": 2.88,
+        "Two_day_sentiment_tweets": -0.06839,
+        "AverageSentimentNews": -0.20095,
+        "Date": "2020-09-14"
+    },
+    {
+        "Open": 2.87,
+        "High": 2.88,
+        "Low": 2.82,
+        "Close": 2.82,
+        "Two_day_sentiment_tweets": -0.06839,
+        "AverageSentimentNews": -0.1630938888888889,
+        "Date": "2020-09-15"
+    },
+    {
+        "Open": 2.84,
+        "High": 2.86,
+        "Low": 2.82,
+        "Close": 2.85,
+        "Two_day_sentiment_tweets": 0.025514,
+        "AverageSentimentNews": 0.148,
+        "Date": "2020-09-16"
+    },
+    {
+        "Open": 2.82,
+        "High": 2.84,
+        "Low": 2.8,
+        "Close": 2.82,
+        "Two_day_sentiment_tweets": 0.127084,
+        "AverageSentimentNews": -0.05461666666666667,
+        "Date": "2020-09-17"
+    },
+    {
+        "Open": 2.83,
+        "High": 2.85,
+        "Low": 2.81,
+        "Close": 2.83,
+        "Two_day_sentiment_tweets": -0.018,
+        "AverageSentimentNews": 0,
+        "Date": "2020-09-18"
+    },
+    {
+        "Open": 2.82,
+        "High": 2.83,
+        "Low": 2.81,
+        "Close": 2.83,
+        "Two_day_sentiment_tweets": 0.111539,
+        "AverageSentimentNews": 0,
+        "Date": "2020-09-21"
+    },
+    {
+        "Open": 2.81,
+        "High": 2.86,
+        "Low": 2.81,
+        "Close": 2.82,
+        "Two_day_sentiment_tweets": 0.11776,
+        "AverageSentimentNews": -0.05,
+        "Date": "2020-09-22"
+    },
+    {
+        "Open": 2.84,
+        "High": 2.87,
+        "Low": 2.815,
+        "Close": 2.87,
+        "Two_day_sentiment_tweets": 0.127264,
+        "AverageSentimentNews": -0.0421875,
+        "Date": "2020-09-23"
+    },
+    {
+        "Open": 2.83,
+        "High": 2.86,
+        "Low": 2.83,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": 0.165693,
+        "AverageSentimentNews": -0.01361742424242425,
+        "Date": "2020-09-24"
+    },
+    {
+        "Open": 2.84,
+        "High": 2.9,
+        "Low": 2.835,
+        "Close": 2.86,
+        "Two_day_sentiment_tweets": 0.242867,
+        "AverageSentimentNews": -0.1557777777777778,
+        "Date": "2020-09-25"
+    },
+    {
+        "Open": 2.86,
+        "High": 2.87,
+        "Low": 2.83,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": 0.114768,
+        "AverageSentimentNews": -0.06566666666666666,
+        "Date": "2020-09-28"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.86,
+        "Low": 2.83,
+        "Close": 2.83,
+        "Two_day_sentiment_tweets": 0.001322,
+        "AverageSentimentNews": 0.02082037037037037,
+        "Date": "2020-09-29"
+    },
+    {
+        "Open": 2.82,
+        "High": 2.83,
+        "Low": 2.78,
+        "Close": 2.78,
+        "Two_day_sentiment_tweets": 0.021206,
+        "AverageSentimentNews": 0.09346666666666668,
+        "Date": "2020-09-30"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.83,
+        "Low": 2.78,
+        "Close": 2.8,
+        "Two_day_sentiment_tweets": 0.047191,
+        "AverageSentimentNews": -0.09673636363636362,
+        "Date": "2020-10-01"
+    },
+    {
+        "Open": 2.79,
+        "High": 2.81,
+        "Low": 2.76,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.074088,
+        "AverageSentimentNews": 0.01303,
+        "Date": "2020-10-02"
+    },
+    {
+        "Open": 2.8,
+        "High": 2.85,
+        "Low": 2.8,
+        "Close": 2.83,
+        "Two_day_sentiment_tweets": 0.09525,
+        "AverageSentimentNews": -0.17,
+        "Date": "2020-10-05"
+    },
+    {
+        "Open": 2.83,
+        "High": 2.835,
+        "Low": 2.8,
+        "Close": 2.8,
+        "Two_day_sentiment_tweets": 0.017392,
+        "AverageSentimentNews": 0.04166666666666666,
+        "Date": "2020-10-06"
+    },
+    {
+        "Open": 2.81,
+        "High": 2.83,
+        "Low": 2.78,
+        "Close": 2.82,
+        "Two_day_sentiment_tweets": 0.112627,
+        "AverageSentimentNews": -0.01877,
+        "Date": "2020-10-07"
+    },
+    {
+        "Open": 2.82,
+        "High": 2.83,
+        "Low": 2.79,
+        "Close": 2.79,
+        "Two_day_sentiment_tweets": 0.273795,
+        "AverageSentimentNews": -0.09545,
+        "Date": "2020-10-08"
+    },
+    {
+        "Open": 2.79,
+        "High": 2.8,
+        "Low": 2.77,
+        "Close": 2.77,
+        "Two_day_sentiment_tweets": 0.034979,
+        "AverageSentimentNews": 0.296725,
+        "Date": "2020-10-09"
+    },
+    {
+        "Open": 2.77,
+        "High": 2.79,
+        "Low": 2.77,
+        "Close": 2.78,
+        "Two_day_sentiment_tweets": -0.11,
+        "AverageSentimentNews": -0.006309999999999999,
+        "Date": "2020-10-12"
+    },
+    {
+        "Open": 2.83,
+        "High": 2.9,
+        "Low": 2.82,
+        "Close": 2.89,
+        "Two_day_sentiment_tweets": -0.01499,
+        "AverageSentimentNews": 0.0172,
+        "Date": "2020-10-13"
+    },
+    {
+        "Open": 2.89,
+        "High": 2.905,
+        "Low": 2.83,
+        "Close": 2.83,
+        "Two_day_sentiment_tweets": -0.00215,
+        "AverageSentimentNews": 0.10592,
+        "Date": "2020-10-14"
+    },
+    {
+        "Open": 2.84,
+        "High": 2.87,
+        "Low": 2.8,
+        "Close": 2.86,
+        "Two_day_sentiment_tweets": 0.036296,
+        "AverageSentimentNews": 0.04054507575757575,
+        "Date": "2020-10-15"
+    },
+    {
+        "Open": 2.87,
+        "High": 2.88,
+        "Low": 2.84,
+        "Close": 2.84,
+        "Two_day_sentiment_tweets": 0.116627,
+        "AverageSentimentNews": 0.08268030303030303,
+        "Date": "2020-10-16"
+    },
+    {
+        "Open": 2.85,
+        "High": 2.86,
+        "Low": 2.84,
+        "Close": 2.85,
+        "Two_day_sentiment_tweets": -0.22868,
+        "AverageSentimentNews": 0.07378333333333334,
+        "Date": "2020-10-19"
+    },
+    {
+        "Open": 2.84,
+        "High": 2.85,
+        "Low": 2.79,
+        "Close": 2.8,
+        "Two_day_sentiment_tweets": 0.165392,
+        "AverageSentimentNews": 0.05295416666666666,
+        "Date": "2020-10-20"
+    },
+    {
+        "Open": 2.8,
+        "High": 2.815,
+        "Low": 2.785,
+        "Close": 2.79,
+        "Two_day_sentiment_tweets": 0.17428,
+        "AverageSentimentNews": 0.0703551948051948,
+        "Date": "2020-10-21"
+    },
+    {
+        "Open": 2.78,
+        "High": 2.79,
+        "Low": 2.75,
+        "Close": 2.75,
+        "Two_day_sentiment_tweets": 0.307436,
+        "AverageSentimentNews": 0.06363333333333333,
+        "Date": "2020-10-22"
+    },
+    {
+        "Open": 2.76,
+        "High": 2.77,
+        "Low": 2.72,
+        "Close": 2.73,
+        "Two_day_sentiment_tweets": 0.257806,
+        "AverageSentimentNews": 0.449475,
+        "Date": "2020-10-23"
+    },
+    {
+        "Open": 2.74,
+        "High": 2.77,
+        "Low": 2.73,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": 0.157281,
+        "AverageSentimentNews": 0.1580214285714286,
+        "Date": "2020-10-26"
+    },
+    {
+        "Open": 2.74,
+        "High": 2.745,
+        "Low": 2.7,
+        "Close": 2.71,
+        "Two_day_sentiment_tweets": 0.007545,
+        "AverageSentimentNews": -0.006099999999999999,
+        "Date": "2020-10-27"
+    },
+    {
+        "Open": 2.71,
+        "High": 2.72,
+        "Low": 2.7,
+        "Close": 2.7,
+        "Two_day_sentiment_tweets": -0.12527,
+        "AverageSentimentNews": -0.01075000000000001,
+        "Date": "2020-10-28"
+    },
+    {
+        "Open": 2.7,
+        "High": 2.715,
+        "Low": 2.66,
+        "Close": 2.69,
+        "Two_day_sentiment_tweets": 0.019245,
+        "AverageSentimentNews": 0.3931214285714285,
+        "Date": "2020-10-29"
+    },
+    {
+        "Open": 2.7,
+        "High": 2.71,
+        "Low": 2.67,
+        "Close": 2.68,
+        "Two_day_sentiment_tweets": 0.019245,
+        "AverageSentimentNews": 0,
+        "Date": "2020-10-30"
+    },
+    {
+        "Open": 2.7,
+        "High": 2.74,
+        "Low": 2.69,
+        "Close": 2.73,
+        "Two_day_sentiment_tweets": 0.07964,
+        "AverageSentimentNews": 0.08748333333333334,
+        "Date": "2020-11-02",
+        "Prediction": 2.7047810554504395
+    },
+    {
+        "Open": 2.73,
+        "High": 2.775,
+        "Low": 2.73,
+        "Close": 2.76,
+        "Two_day_sentiment_tweets": 0.07964,
+        "AverageSentimentNews": 0.5742,
+        "Date": "2020-11-03",
+        "Prediction": 2.74143123626709
+    },
+    {
+        "Open": 2.76,
+        "High": 2.765,
+        "Low": 2.71,
+        "Close": 2.73,
+        "Two_day_sentiment_tweets": 0.05912,
+        "AverageSentimentNews": 0.4204166666666667,
+        "Date": "2020-11-04",
+        "Prediction": 2.785012722015381
+    },
+    {
+        "Open": 2.74,
+        "High": 2.78,
+        "Low": 2.73,
+        "Close": 2.78,
+        "Two_day_sentiment_tweets": 0.05912,
+        "AverageSentimentNews": 0,
+        "Date": "2020-11-05",
+        "Prediction": 2.7660574913024902
+    },
+    {
+        "Open": 2.79,
+        "High": 2.81,
+        "Low": 2.77,
+        "Close": 2.8,
+        "Two_day_sentiment_tweets": 0.05912,
+        "AverageSentimentNews": 0,
+        "Date": "2020-11-06",
+        "Prediction": 2.7902143001556396
+    },
+    {
+        "Open": 2.81,
+        "High": 2.87,
+        "Low": 2.8,
+        "Close": 2.86,
+        "Two_day_sentiment_tweets": 0.193561,
+        "AverageSentimentNews": 0.03333333333333333,
+        "Date": "2020-11-09",
+        "Prediction": 2.8292293548583984
+    },
+    {
+        "Open": 2.9,
+        "High": 2.95,
+        "Low": 2.885,
+        "Close": 2.9,
+        "Two_day_sentiment_tweets": 0.030826,
+        "AverageSentimentNews": -0.074196875,
+        "Date": "2020-11-10",
+        "Prediction": 2.8778164386749268
+    },
+    {
+        "Open": 2.92,
+        "High": 3.005,
+        "Low": 2.915,
+        "Close": 2.99,
+        "Two_day_sentiment_tweets": 0.054215,
+        "AverageSentimentNews": 0,
+        "Date": "2020-11-11",
+        "Prediction": 2.950007915496826
+    },
+    {
+        "Open": 3.18,
+        "High": 3.19,
+        "Low": 3.07,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.124972,
+        "AverageSentimentNews": 0.1298916666666667,
+        "Date": "2020-11-12",
+        "Prediction": 3.011289119720459
+    },
+    {
+        "Open": 3.08,
+        "High": 3.14,
+        "Low": 3.08,
+        "Close": 3.13,
+        "Two_day_sentiment_tweets": 0.00108,
+        "AverageSentimentNews": 0.2484654761904762,
+        "Date": "2020-11-13",
+        "Prediction": 3.1527328491210938
+    },
+    {
+        "Open": 3.15,
+        "High": 3.165,
+        "Low": 3.14,
+        "Close": 3.16,
+        "Two_day_sentiment_tweets": 0.279643,
+        "AverageSentimentNews": 0.02996022727272728,
+        "Date": "2020-11-16",
+        "Prediction": 3.1424930095672607
+    },
+    {
+        "Open": 3.16,
+        "High": 3.16,
+        "Low": 3.09,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.254205,
+        "AverageSentimentNews": 0.08891666666666669,
+        "Date": "2020-11-17",
+        "Prediction": 3.1723453998565674
+    },
+    {
+        "Open": 3.13,
+        "High": 3.14,
+        "Low": 3.05,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.052946,
+        "AverageSentimentNews": 0.05267500000000001,
+        "Date": "2020-11-18",
+        "Prediction": 3.1290524005889893
+    },
+    {
+        "Open": 3.09,
+        "High": 3.1,
+        "Low": 3.05,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": 0.122978,
+        "AverageSentimentNews": 0.0559625,
+        "Date": "2020-11-19",
+        "Prediction": 3.097006320953369
+    },
+    {
+        "Open": 3.11,
+        "High": 3.12,
+        "Low": 3.08,
+        "Close": 3.09,
+        "Two_day_sentiment_tweets": 0.122978,
+        "AverageSentimentNews": 0,
+        "Date": "2020-11-20",
+        "Prediction": 3.0966477394104004
+    },
+    {
+        "Open": 3.1,
+        "High": 3.11,
+        "Low": 3.08,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": 0.011637,
+        "AverageSentimentNews": 0.02109166666666666,
+        "Date": "2020-11-23",
+        "Prediction": 3.113140344619751
+    },
+    {
+        "Open": 3.09,
+        "High": 3.14,
+        "Low": 3.085,
+        "Close": 3.12,
+        "Two_day_sentiment_tweets": 0.110684,
+        "AverageSentimentNews": 0.1665375,
+        "Date": "2020-11-24",
+        "Prediction": 3.112605571746826
+    },
+    {
+        "Open": 3.13,
+        "High": 3.14,
+        "Low": 3.1,
+        "Close": 3.1,
+        "Two_day_sentiment_tweets": 0.275038,
+        "AverageSentimentNews": 0.05691999999999999,
+        "Date": "2020-11-25",
+        "Prediction": 3.1375372409820557
+    },
+    {
+        "Open": 3.11,
+        "High": 3.13,
+        "Low": 3.09,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": 0.05453,
+        "AverageSentimentNews": 0.09566041666666666,
+        "Date": "2020-11-26",
+        "Prediction": 3.12827467918396
+    },
+    {
+        "Open": 3.11,
+        "High": 3.13,
+        "Low": 3.1,
+        "Close": 3.11,
+        "Two_day_sentiment_tweets": -0.16993,
+        "AverageSentimentNews": 0.1075458333333333,
+        "Date": "2020-11-27",
+        "Prediction": 3.132969379425049
+    },
+    {
+        "Open": 3.12,
+        "High": 3.13,
+        "Low": 3.07,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": 0.286825,
+        "AverageSentimentNews": 0,
+        "Date": "2020-11-30",
+        "Prediction": 3.1438636779785156
+    },
+    {
+        "Open": 3.09,
+        "High": 3.11,
+        "Low": 3.065,
+        "Close": 3.08,
+        "Two_day_sentiment_tweets": -0.14228,
+        "AverageSentimentNews": 0,
+        "Date": "2020-12-01",
+        "Prediction": 3.099534034729004
+    },
+    {
+        "Open": 3.09,
+        "High": 3.09,
+        "Low": 3.04,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": -0.07114,
+        "AverageSentimentNews": -0.005502904040404058,
+        "Date": "2020-12-02",
+        "Prediction": 3.1112096309661865
+    },
+    {
+        "Open": 3.06,
+        "High": 3.07,
+        "Low": 3.02,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": -0.03451,
+        "AverageSentimentNews": 0.2085366666666666,
+        "Date": "2020-12-03",
+        "Prediction": 3.0851831436157227
+    },
+    {
+        "Open": 3.02,
+        "High": 3.07,
+        "Low": 3.02,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": -0.09342,
+        "AverageSentimentNews": 0.1702388888888889,
+        "Date": "2020-12-04",
+        "Prediction": 3.059520721435547
+    },
+    {
+        "Open": 3.08,
+        "High": 3.085,
+        "Low": 3.05,
+        "Close": 3.06,
+        "Two_day_sentiment_tweets": -0.29296,
+        "AverageSentimentNews": 0.07492321428571432,
+        "Date": "2020-12-07",
+        "Prediction": 3.06730580329895
+    },
+    {
+        "Open": 3.05,
+        "High": 3.07,
+        "Low": 3.04,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": -0.29296,
+        "AverageSentimentNews": 0.1010125,
+        "Date": "2020-12-08",
+        "Prediction": 3.0999298095703125
+    },
+    {
+        "Open": 3.05,
+        "High": 3.08,
+        "Low": 3.05,
+        "Close": 3.07,
+        "Two_day_sentiment_tweets": -0.02812,
+        "AverageSentimentNews": 0.1073564935064935,
+        "Date": "2020-12-09",
+        "Prediction": 3.084476947784424
+    },
+    {
+        "Open": 3.04,
+        "High": 3.06,
+        "Low": 3.03,
+        "Close": 3.04,
+        "Two_day_sentiment_tweets": 0.004853,
+        "AverageSentimentNews": -0.04166666666666666,
+        "Date": "2020-12-10",
+        "Prediction": 3.0932631492614746
+    },
+    {
+        "Open": 3.03,
+        "High": 3.055,
+        "Low": 3.03,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": 0.004853,
+        "AverageSentimentNews": 0,
+        "Date": "2020-12-11",
+        "Prediction": 3.0672643184661865
+    },
+    {
+        "Open": 3.04,
+        "High": 3.06,
+        "Low": 3.03,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": -0.00879,
+        "AverageSentimentNews": 0.01704545454545454,
+        "Date": "2020-12-14",
+        "Prediction": 3.059830904006958
+    },
+    {
+        "Open": 3.03,
+        "High": 3.04,
+        "Low": 3.02,
+        "Close": 3.02,
+        "Two_day_sentiment_tweets": 0.001057,
+        "AverageSentimentNews": 0.08675416666666666,
+        "Date": "2020-12-15",
+        "Prediction": 3.0619232654571533
+    },
+    {
+        "Open": 3.03,
+        "High": 3.05,
+        "Low": 3.02,
+        "Close": 3.02,
+        "Two_day_sentiment_tweets": 0.000529,
+        "AverageSentimentNews": -0.04933333333333333,
+        "Date": "2020-12-16",
+        "Prediction": 3.0480971336364746
+    },
+    {
+        "Open": 3.03,
+        "High": 3.05,
+        "Low": 3.03,
+        "Close": 3.05,
+        "Two_day_sentiment_tweets": 0.086086,
+        "AverageSentimentNews": 0.2150083333333333,
+        "Date": "2020-12-17",
+        "Prediction": 3.050304889678955
+    },
+    {
+        "Open": 3.04,
+        "High": 3.04,
+        "Low": 3.02,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": -0.12943,
+        "AverageSentimentNews": -0.14739,
+        "Date": "2020-12-18",
+        "Prediction": 3.064894676208496
+    },
+    {
+        "Open": 3.03,
+        "High": 3.035,
+        "Low": 3.01,
+        "Close": 3.03,
+        "Two_day_sentiment_tweets": 0.070192,
+        "AverageSentimentNews": 0.1743090909090909,
+        "Date": "2020-12-21",
+        "Prediction": 3.0595004558563232
+    },
+    {
+        "Open": 3.02,
+        "High": 3.03,
+        "Low": 3,
+        "Close": 3,
+        "Two_day_sentiment_tweets": 0.005269,
+        "AverageSentimentNews": 0.510599090909091,
+        "Date": "2020-12-22",
+        "Prediction": 3.0472142696380615
+    },
+    {
+        "Open": 3.01,
+        "High": 3.03,
+        "Low": 3.005,
+        "Close": 3.01,
+        "Two_day_sentiment_tweets": 0.079134,
+        "AverageSentimentNews": 0.06255714285714285,
+        "Date": "2020-12-23",
+        "Prediction": 3.0226588249206543
+    },
+    {
+        "Open": 3.02,
+        "High": 3.035,
+        "Low": 3.01,
+        "Close": 3.01,
+        "Two_day_sentiment_tweets": 0.079134,
+        "AverageSentimentNews": 0.1947,
+        "Date": "2020-12-24",
+        "Prediction": 3.0252435207366943
+    },
+    {
+        "Open": 3.03,
+        "High": 3.03,
+        "Low": 3.01,
+        "Close": 3.02,
+        "Two_day_sentiment_tweets": 0.17328,
+        "AverageSentimentNews": -0.064,
+        "Date": "2020-12-29",
+        "Prediction": 3.033557415008545
+    },
+    {
+        "Open": 3.02,
+        "High": 3.03,
+        "Low": 3,
+        "Close": 3,
+        "Two_day_sentiment_tweets": -0.03663,
+        "AverageSentimentNews": 0.2,
+        "Date": "2020-12-30",
+        "Prediction": 3.0382766723632812
+    },
+    {
+        "Open": 3,
+        "High": 3.01,
+        "Low": 2.98,
+        "Close": 2.98,
+        "Two_day_sentiment_tweets": -0.03663,
+        "AverageSentimentNews": -0.00971666666666667,
+        "Date": "2020-12-31",
+        "Prediction": 3.0324976444244385
+    }
+]
